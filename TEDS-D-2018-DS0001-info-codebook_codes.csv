@@ -1,0 +1,528 @@
+,code,full_label,Value,Label,Frequency,Percent
+0,CASEID,Case identification number,,,,
+0,DISYR,Year of discharge,2018,2018,"1,666,366",100%
+0,AGE,Age at admission,1,12-14 years,"8,633",0.5%
+1,AGE,Age at admission,2,15-17 years,"42,744",2.6%
+2,AGE,Age at admission,3,18-20 years,"51,563",3.1%
+3,AGE,Age at admission,4,21-24 years,"143,072",8.6%
+4,AGE,Age at admission,5,25-29 years,"294,505",17.7%
+5,AGE,Age at admission,6,30-34 years,"282,759",17.0%
+6,AGE,Age at admission,7,35-39 years,"234,610",14.1%
+7,AGE,Age at admission,8,40-44 years,"158,479",9.5%
+8,AGE,Age at admission,9,45-49 years,"146,820",8.8%
+9,AGE,Age at admission,10,50-54 years,"135,137",8.1%
+10,AGE,Age at admission,11,55-64 years,"147,575",8.9%
+11,AGE,Age at admission,12,65 years and older,"20,469",1.2%
+0,GENDER,Gender,1,Male,"1,070,049",64.2%
+1,GENDER,Gender,2,Female,"595,820",35.8%
+2,GENDER,Gender,-9,Missing/unknown/not collected/invalid,497,0.0%
+0,RACE,Race,1,"Alaska Native (Aleut, Eskimo, Indian)","3,542",0.2%
+1,RACE,Race,2,American Indian (other than Alaska Native),"41,343",2.5%
+2,RACE,Race,3,Asian or Pacific Islander,312,0.0%
+3,RACE,Race,4,Black or African American,"287,447",17.2%
+4,RACE,Race,5,White,"1,107,560",66.5%
+5,RACE,Race,6,Asian,"9,917",0.6%
+6,RACE,Race,7,Other single race,"119,082",7.1%
+7,RACE,Race,8,Two or more races,"33,646",2.0%
+8,RACE,Race,9,Native Hawaiian or Other Pacific Islander,"8,817",0.5%
+9,RACE,Race,-9,Missing/unknown/not collected/invalid,"54,700",3.3%
+0,ETHNIC,Ethnicity,1,Puerto Rican,"60,338",3.6%
+1,ETHNIC,Ethnicity,2,Mexican,"57,074",3.4%
+2,ETHNIC,Ethnicity,3,Cuban or other specific Hispanic,"51,862",3.1%
+3,ETHNIC,Ethnicity,4,Not of Hispanic or Latino origin,"1,394,044",83.7%
+4,ETHNIC,Ethnicity,5,"Hispanic or Latino, specific origin not specified","44,126",2.6%
+5,ETHNIC,Ethnicity,-9,Missing/unknown/not collected/invalid,"58,922",3.5%
+0,MARSTAT,Marital status,1,Never married,"884,573",53.1%
+1,MARSTAT,Marital status,2,Now married,"168,274",10.1%
+2,MARSTAT,Marital status,3,Separated,"80,022",4.8%
+3,MARSTAT,Marital status,4,"Divorced, widowed","200,054",12.0%
+4,MARSTAT,Marital status,-9,Missing/unknown/not collected/invalid,"333,443",20.0%
+0,EDUC,Education,1,"Less than one school grade, no schooling, nursery school, orkindergarten to Grade 8","92,549",5.6%
+1,EDUC,Education,2,Grades 9 to 11,"315,535",18.9%
+2,EDUC,Education,3,Grade 12 (or GED),"715,716",43.0%
+3,EDUC,Education,4,"1-3 years of college, university, or vocational school","303,945",18.2%
+4,EDUC,Education,5,"4 years of college, university, BA/BS, some postgraduate study, or more","93,233",5.6%
+5,EDUC,Education,-9,Missing/unknown/not collected/invalid,"145,388",8.7%
+0,EMPLOY,Employment status at admission,1,Full-time,"269,938",16.2%
+1,EMPLOY,Employment status at admission,2,Part-time,"111,413",6.7%
+2,EMPLOY,Employment status at admission,3,Unemployed,"610,614",36.6%
+3,EMPLOY,Employment status at admission,4,Not in labor force,"543,537",32.6%
+4,EMPLOY,Employment status at admission,-9,Missing/unknown/not collected/invalid,"130,864",7.9%
+0,EMPLOY_D,Employment status at discharge,1,Full-time,"276,022",16.6%
+1,EMPLOY_D,Employment status at discharge,2,Part-time,"106,145",6.4%
+2,EMPLOY_D,Employment status at discharge,3,Unemployed,"491,067",29.5%
+3,EMPLOY_D,Employment status at discharge,4,Not in labor force,"433,691",26.0%
+4,EMPLOY_D,Employment status at discharge,-9,Missing/unknown/not collected/invalid,"359,441",21.6%
+0,DETNLF,Detailed not in labor force category at admission,1,Homemaker,"12,724",0.8%
+1,DETNLF,Detailed not in labor force category at admission,2,Student,"45,021",2.7%
+2,DETNLF,Detailed not in labor force category at admission,3,"Retired, disabled","111,920",6.7%
+3,DETNLF,Detailed not in labor force category at admission,4,Resident of institution,"27,238",1.6%
+4,DETNLF,Detailed not in labor force category at admission,5,Other,"286,492",17.2%
+5,DETNLF,Detailed not in labor force category at admission,-9,Missing/unknown/not collected/invalid,"1,182,971",71.0%
+0,DETNLF_D,Detailed not in labor force category at discharge,1,Homemaker,"11,529",0.7%
+1,DETNLF_D,Detailed not in labor force category at discharge,2,Student,"39,638",2.4%
+2,DETNLF_D,Detailed not in labor force category at discharge,3,"Retired, disabled","94,151",5.7%
+3,DETNLF_D,Detailed not in labor force category at discharge,4,Resident of institution,"23,857",1.4%
+4,DETNLF_D,Detailed not in labor force category at discharge,5,Other,"228,751",13.7%
+5,DETNLF_D,Detailed not in labor force category at discharge,-9,Missing/unknown/not collected/invalid,"1,268,440",76.1%
+0,PREG,Pregnant at admission,1,Yes,"20,090",1.2%
+1,PREG,Pregnant at admission,2,No,"534,943",32.1%
+2,PREG,Pregnant at admission,-9,Missing/unknown/not collected/invalid,"1,111,333",66.7%
+0,VET,Veteran status,1,Yes,"39,532",2.4%
+1,VET,Veteran status,2,No,"1,422,254",85.4%
+2,VET,Veteran status,-9,Missing/unknown/not collected/invalid,"204,580",12.3%
+0,LIVARAG,Living arrangements at admission,1,Homeless,"239,590",14.4%
+1,LIVARAG,Living arrangements at admission,2,Dependent living,"272,403",16.3%
+2,LIVARAG,Living arrangements at admission,3,Independent living,"986,751",59.2%
+3,LIVARAG,Living arrangements at admission,-9,Missing/unknown/not collected/invalid,"167,622",10.1%
+0,LIVARAG_D,Living arrangements at discharge,1,Homeless,"155,633",9.3%
+1,LIVARAG_D,Living arrangements at discharge,2,Dependent living,"292,077",17.5%
+2,LIVARAG_D,Living arrangements at discharge,3,Independent living,"810,138",48.6%
+3,LIVARAG_D,Living arrangements at discharge,-9,Missing/unknown/not collected/invalid,"408,518",24.5%
+0,PRIMINC,Source of income/support,1,Wages/salary,"286,794",17.2%
+1,PRIMINC,Source of income/support,2,Public assistance,"77,766",4.7%
+2,PRIMINC,Source of income/support,3,"Retirement/pension, disability","67,429",4.0%
+3,PRIMINC,Source of income/support,4,Other,"176,900",10.6%
+4,PRIMINC,Source of income/support,5,None,"413,362",24.8%
+5,PRIMINC,Source of income/support,-9,Missing/unknown/not collected/invalid,"644,115",38.7%
+0,ARRESTS,Arrests in past 30 days prior to admission,0,None,"1,400,511",84.0%
+1,ARRESTS,Arrests in past 30 days prior to admission,1,Once,"104,890",6.3%
+2,ARRESTS,Arrests in past 30 days prior to admission,2,Two or more times,"22,332",1.3%
+3,ARRESTS,Arrests in past 30 days prior to admission,-9,Missing/unknown/not collected/invalid,"138,633",8.3%
+0,ARRESTS_D,Arrests in past 30 days prior to discharge,0,None,"1,248,799",74.9%
+1,ARRESTS_D,Arrests in past 30 days prior to discharge,1,Once,"66,364",4.0%
+2,ARRESTS_D,Arrests in past 30 days prior to discharge,2,Two or more times,"20,988",1.3%
+3,ARRESTS_D,Arrests in past 30 days prior to discharge,-9,Missing/unknown/not collected/invalid,"330,215",19.8%
+0,STFIPS,Census state FIPS code,1,Alabama,"9,630",0.6%
+1,STFIPS,Census state FIPS code,2,Alaska,"6,640",0.4%
+2,STFIPS,Census state FIPS code,4,Arizona,"132,135",7.9%
+3,STFIPS,Census state FIPS code,5,Arkansas,"10,846",0.7%
+4,STFIPS,Census state FIPS code,6,California,"107,850",6.5%
+5,STFIPS,Census state FIPS code,8,Colorado,"55,609",3.3%
+6,STFIPS,Census state FIPS code,9,Connecticut,"61,683",3.7%
+7,STFIPS,Census state FIPS code,10,Delaware,"11,623",0.7%
+8,STFIPS,Census state FIPS code,11,District of Columbia,"4,458",0.3%
+9,STFIPS,Census state FIPS code,12,Florida,"55,264",3.3%
+10,STFIPS,Census state FIPS code,15,Hawaii,"8,343",0.5%
+11,STFIPS,Census state FIPS code,16,Idaho,"6,030",0.4%
+12,STFIPS,Census state FIPS code,17,Illinois,"41,966",2.5%
+13,STFIPS,Census state FIPS code,18,Indiana,"21,648",1.3%
+14,STFIPS,Census state FIPS code,19,Iowa,"23,898",1.4%
+15,STFIPS,Census state FIPS code,20,Kansas,"7,868",0.5%
+16,STFIPS,Census state FIPS code,21,Kentucky,"73,765",4.4%
+17,STFIPS,Census state FIPS code,22,Louisiana,"15,582",0.9%
+18,STFIPS,Census state FIPS code,23,Maine,"7,217",0.4%
+19,STFIPS,Census state FIPS code,24,Maryland,"34,990",2.1%
+20,STFIPS,Census state FIPS code,25,Massachusetts,"69,357",4.2%
+21,STFIPS,Census state FIPS code,26,Michigan,"70,118",4.2%
+22,STFIPS,Census state FIPS code,27,Minnesota,"53,909",3.2%
+23,STFIPS,Census state FIPS code,28,Mississippi,"8,253",0.5%
+24,STFIPS,Census state FIPS code,29,Missouri,"46,013",2.8%
+25,STFIPS,Census state FIPS code,30,Montana,"1,391",0.1%
+26,STFIPS,Census state FIPS code,31,Nebraska,"11,115",0.7%
+27,STFIPS,Census state FIPS code,32,Nevada,"5,978",0.4%
+28,STFIPS,Census state FIPS code,33,New Hampshire,"4,372",0.3%
+29,STFIPS,Census state FIPS code,34,New Jersey,"78,694",4.7%
+30,STFIPS,Census state FIPS code,35,New Mexico,974,0.1%
+0,STFIPS,Census state FIPS code,36,New York,"264,431",15.9%
+1,STFIPS,Census state FIPS code,37,North Carolina,"127,240",7.6%
+2,STFIPS,Census state FIPS code,38,North Dakota,"1,251",0.1%
+3,STFIPS,Census state FIPS code,39,Ohio,"25,689",1.5%
+4,STFIPS,Census state FIPS code,40,Oklahoma,"13,124",0.8%
+5,STFIPS,Census state FIPS code,42,Pennsylvania,"26,525",1.6%
+6,STFIPS,Census state FIPS code,44,Rhode Island,"6,950",0.4%
+7,STFIPS,Census state FIPS code,45,South Carolina,"25,962",1.6%
+8,STFIPS,Census state FIPS code,46,South Dakota,"14,672",0.9%
+9,STFIPS,Census state FIPS code,47,Tennessee,"16,585",1.0%
+10,STFIPS,Census state FIPS code,48,Texas,"33,927",2.0%
+11,STFIPS,Census state FIPS code,49,Utah,"16,977",1.0%
+12,STFIPS,Census state FIPS code,50,Vermont,"10,062",0.6%
+13,STFIPS,Census state FIPS code,51,Virginia,"20,658",1.2%
+14,STFIPS,Census state FIPS code,55,Wisconsin,"7,847",0.5%
+15,STFIPS,Census state FIPS code,56,Wyoming,"4,572",0.3%
+16,STFIPS,Census state FIPS code,72,Puerto Rico,"2,675",0.2%
+0,CBSA2010,CBSA 2010 code,,,,
+0,REGION,Census region,0,U.S. territories,"2,675",0.2%
+1,REGION,Census region,1,Northeast,"529,291",31.8%
+2,REGION,Census region,2,Midwest,"325,994",19.6%
+3,REGION,Census region,3,South,"461,907",27.7%
+4,REGION,Census region,4,West,"346,499",20.8%
+0,DIVISION,Census division,0,U.S. territories,"2,675",0.2%
+1,DIVISION,Census division,1,New England,"159,641",9.6%
+2,DIVISION,Census division,2,Middle Atlantic,"369,650",22.2%
+3,DIVISION,Census division,3,East North Central,"167,268",10.0%
+4,DIVISION,Census division,4,West North Central,"158,726",9.5%
+5,DIVISION,Census division,5,South Atlantic,"280,195",16.8%
+6,DIVISION,Census division,6,East South Central,"108,233",6.5%
+7,DIVISION,Census division,7,West South Central,"73,479",4.4%
+8,DIVISION,Census division,8,Mountain,"223,666",13.4%
+9,DIVISION,Census division,9,Pacific,"122,833",7.4%
+0,SERVICES,Type of treatment/service setting at admission,1,"Detox, 24-hour, hospital inpatient","43,390",2.6%
+1,SERVICES,Type of treatment/service setting at admission,2,"Detox, 24-hour, free-standing residential","244,747",14.7%
+2,SERVICES,Type of treatment/service setting at admission,3,"Rehab/residential, hospital (non-detox)","4,220",0.3%
+3,SERVICES,Type of treatment/service setting at admission,4,"Rehab/residential, short term (30 days or fewer)","179,830",10.8%
+4,SERVICES,Type of treatment/service setting at admission,5,"Rehab/residential, long term (more than 30 days)","118,545",7.1%
+5,SERVICES,Type of treatment/service setting at admission,6,"Ambulatory, intensive outpatient","220,378",13.2%
+6,SERVICES,Type of treatment/service setting at admission,7,"Ambulatory, non-intensive outpatient","843,754",50.6%
+7,SERVICES,Type of treatment/service setting at admission,8,"Ambulatory, detoxification","11,502",0.7%
+0,SERVICES_D,Type of treatment/service setting at discharge,1,"Detox, 24-hour, hospital inpatient","42,854",2.6%
+1,SERVICES_D,Type of treatment/service setting at discharge,2,"Detox, 24-hour, free-standing residential","240,144",14.4%
+2,SERVICES_D,Type of treatment/service setting at discharge,3,"Rehab/residential, hospital (non-detox)","4,407",0.3%
+3,SERVICES_D,Type of treatment/service setting at discharge,4,"Rehab/residential, short term (30 days or fewer)","179,414",10.8%
+4,SERVICES_D,Type of treatment/service setting at discharge,5,"Rehab/residential, long term (more than 30 days)","119,329",7.2%
+5,SERVICES_D,Type of treatment/service setting at discharge,6,"Ambulatory, intensive outpatient","221,030",13.3%
+6,SERVICES_D,Type of treatment/service setting at discharge,7,"Ambulatory, non-intensive outpatient","847,690",50.9%
+7,SERVICES_D,Type of treatment/service setting at discharge,8,"Ambulatory, detoxification","11,498",0.7%
+0,METHUSE,Medication-assisted opioid therapy,1,Yes,"199,701",12.0%
+1,METHUSE,Medication-assisted opioid therapy,2,No,"1,338,749",80.3%
+2,METHUSE,Medication-assisted opioid therapy,-9,Missing/unknown/not collected/invalid,"127,916",7.7%
+0,DAYWAIT,Days waiting to enter substance use treatment,0,0,"560,251",33.6%
+1,DAYWAIT,Days waiting to enter substance use treatment,1,1-7,"172,938",10.4%
+2,DAYWAIT,Days waiting to enter substance use treatment,2,8-14,"40,563",2.4%
+3,DAYWAIT,Days waiting to enter substance use treatment,3,15-30,"28,577",1.7%
+4,DAYWAIT,Days waiting to enter substance use treatment,4,31 or more,"18,805",1.1%
+5,DAYWAIT,Days waiting to enter substance use treatment,-9,Missing/unknown/not collected/invalid,"845,232",50.7%
+0,REASON,Reason for discharge,1,Treatment completed,"702,218",42.1%
+1,REASON,Reason for discharge,2,Dropped out of treatment,"410,025",24.6%
+2,REASON,Reason for discharge,3,Terminated by facility,"103,312",6.2%
+3,REASON,Reason for discharge,4,Transferred to another treatment program or facility,"336,027",20.2%
+4,REASON,Reason for discharge,5,Incarcerated,"28,780",1.7%
+5,REASON,Reason for discharge,6,Death,"3,671",0.2%
+6,REASON,Reason for discharge,7,Other,"82,333",4.9%
+0,LOS,Length of stay in treatment (days),1,1,"239,574",14.4%
+1,LOS,Length of stay in treatment (days),2,2,"74,960",4.5%
+2,LOS,Length of stay in treatment (days),3,3,"63,326",3.8%
+3,LOS,Length of stay in treatment (days),4,4,"60,909",3.7%
+4,LOS,Length of stay in treatment (days),5,5,"54,218",3.3%
+5,LOS,Length of stay in treatment (days),6,6,"35,628",2.1%
+6,LOS,Length of stay in treatment (days),7,7,"31,397",1.9%
+7,LOS,Length of stay in treatment (days),8,8,"24,503",1.5%
+8,LOS,Length of stay in treatment (days),9,9,"16,483",1.0%
+9,LOS,Length of stay in treatment (days),10,10,"14,529",0.9%
+10,LOS,Length of stay in treatment (days),11,11,"12,359",0.7%
+11,LOS,Length of stay in treatment (days),12,12,"12,071",0.7%
+12,LOS,Length of stay in treatment (days),13,13,"16,423",1.0%
+13,LOS,Length of stay in treatment (days),14,14,"25,911",1.6%
+14,LOS,Length of stay in treatment (days),15,15,"19,470",1.2%
+15,LOS,Length of stay in treatment (days),16,16,"11,874",0.7%
+16,LOS,Length of stay in treatment (days),17,17,"10,534",0.6%
+17,LOS,Length of stay in treatment (days),18,18,"9,309",0.6%
+18,LOS,Length of stay in treatment (days),19,19,"9,470",0.6%
+19,LOS,Length of stay in treatment (days),20,20,"12,685",0.8%
+20,LOS,Length of stay in treatment (days),21,21,"16,720",1.0%
+21,LOS,Length of stay in treatment (days),22,22,"14,701",0.9%
+22,LOS,Length of stay in treatment (days),23,23,"10,071",0.6%
+0,LOS,Length of stay in treatment (days),24,24,"9,372",0.6%
+1,LOS,Length of stay in treatment (days),25,25,"8,494",0.5%
+2,LOS,Length of stay in treatment (days),26,26,"8,955",0.5%
+3,LOS,Length of stay in treatment (days),27,27,"13,948",0.8%
+4,LOS,Length of stay in treatment (days),28,28,"24,668",1.5%
+5,LOS,Length of stay in treatment (days),29,29,"18,865",1.1%
+6,LOS,Length of stay in treatment (days),30,30,"13,975",0.8%
+7,LOS,Length of stay in treatment (days),31,31 to 45 days,"112,958",6.8%
+8,LOS,Length of stay in treatment (days),32,46 to 60 days,"86,257",5.2%
+9,LOS,Length of stay in treatment (days),33,61 to 90 days,"138,797",8.3%
+10,LOS,Length of stay in treatment (days),34,91 to 120 days,"105,783",6.3%
+11,LOS,Length of stay in treatment (days),35,121 to 180 days,"125,983",7.6%
+12,LOS,Length of stay in treatment (days),36,181 to 365 days,"124,145",7.5%
+13,LOS,Length of stay in treatment (days),37,More than a year,"77,041",4.6%
+0,PSOURCE,Referral source,1,Individual (includes self-referral),"691,365",41.5%
+1,PSOURCE,Referral source,2,Alcohol/drug use care provider,"149,609",9.0%
+2,PSOURCE,Referral source,3,Other health care provider,"123,565",7.4%
+3,PSOURCE,Referral source,4,School (educational),"8,672",0.5%
+4,PSOURCE,Referral source,5,Employer/EAP,"5,743",0.3%
+5,PSOURCE,Referral source,6,Other community referral,"175,753",10.5%
+6,PSOURCE,Referral source,7,Court/criminal justice referral/DUI/DWI,"430,372",25.8%
+7,PSOURCE,Referral source,-9,Missing/unknown/not collected/invalid,"81,287",4.9%
+0,DETCRIM,Detailed criminal justice referral,1,State/federal court,"59,263",3.6%
+1,DETCRIM,Detailed criminal justice referral,2,Formal adjudication process,"32,812",2.0%
+2,DETCRIM,Detailed criminal justice referral,3,Probation/parole,"130,123",7.8%
+3,DETCRIM,Detailed criminal justice referral,4,Other recognized legal entity,"23,252",1.4%
+4,DETCRIM,Detailed criminal justice referral,5,Diversionary program,"14,555",0.9%
+5,DETCRIM,Detailed criminal justice referral,6,Prison,"7,662",0.5%
+6,DETCRIM,Detailed criminal justice referral,7,DUI/DWI,"27,308",1.6%
+7,DETCRIM,Detailed criminal justice referral,8,Other,"33,213",2.0%
+8,DETCRIM,Detailed criminal justice referral,-9,Missing/unknown/not collected/invalid,"1,338,178",80.3%
+0,NOPRIOR,Previous substance use treatment episodes,0,No prior treatment episodes,"586,769",35.2%
+1,NOPRIOR,Previous substance use treatment episodes,1,One or more prior treatment episodes,"931,288",55.9%
+2,NOPRIOR,Previous substance use treatment episodes,-9,Missing/unknown/not collected/invalid,"148,309",8.9%
+0,SUB1,Substance use at admission (primary),,,,
+0,SUB1,Substance use at admission (primary),1,None,"43,488",2.6%
+1,SUB1,Substance use at admission (primary),2,Alcohol,"506,546",30.4%
+2,SUB1,Substance use at admission (primary),3,Cocaine/crack,"94,313",5.7%
+3,SUB1,Substance use at admission (primary),4,Marijuana/hashish,"200,768",12.0%
+4,SUB1,Substance use at admission (primary),5,Heroin,"398,893",23.9%
+5,SUB1,Substance use at admission (primary),6,Non-prescription methadone,"3,163",0.2%
+6,SUB1,Substance use at admission (primary),7,Other opiates and synthetics,"124,813",7.5%
+7,SUB1,Substance use at admission (primary),8,PCP,"4,234",0.3%
+8,SUB1,Substance use at admission (primary),9,Hallucinogens,"2,048",0.1%
+9,SUB1,Substance use at admission (primary),10,Methamphetamine/speed,"185,573",11.1%
+10,SUB1,Substance use at admission (primary),11,Other amphetamines,"8,556",0.5%
+11,SUB1,Substance use at admission (primary),12,Other stimulants,"2,187",0.1%
+12,SUB1,Substance use at admission (primary),13,Benzodiazepines,"18,429",1.1%
+13,SUB1,Substance use at admission (primary),14,Other tranquilizers,191,0.0%
+14,SUB1,Substance use at admission (primary),15,Barbiturates,947,0.1%
+15,SUB1,Substance use at admission (primary),16,Other sedatives or hypnotics,"1,921",0.1%
+16,SUB1,Substance use at admission (primary),17,Inhalants,765,0.0%
+17,SUB1,Substance use at admission (primary),18,Over-the-counter medications,565,0.0%
+18,SUB1,Substance use at admission (primary),19,Other drugs,"11,937",0.7%
+19,SUB1,Substance use at admission (primary),-9,Missing/unknown/not collected/invalid,"57,029",3.4%
+0,SUB1_D,Substance use at discharge (primary),1,None,"85,377",5.1%
+1,SUB1_D,Substance use at discharge (primary),2,Alcohol,"440,847",26.5%
+2,SUB1_D,Substance use at discharge (primary),3,Cocaine/crack,"88,418",5.3%
+3,SUB1_D,Substance use at discharge (primary),4,Marijuana/hashish,"180,892",10.9%
+4,SUB1_D,Substance use at discharge (primary),5,Heroin,"339,603",20.4%
+5,SUB1_D,Substance use at discharge (primary),6,Non-prescription methadone,"3,005",0.2%
+6,SUB1_D,Substance use at discharge (primary),7,Other opiates and synthetics,"118,159",7.1%
+7,SUB1_D,Substance use at discharge (primary),8,PCP,"3,730",0.2%
+8,SUB1_D,Substance use at discharge (primary),9,Hallucinogens,"1,868",0.1%
+9,SUB1_D,Substance use at discharge (primary),10,Methamphetamine/speed,"178,709",10.7%
+10,SUB1_D,Substance use at discharge (primary),11,Other amphetamines,"8,559",0.5%
+11,SUB1_D,Substance use at discharge (primary),12,Other stimulants,"3,073",0.2%
+12,SUB1_D,Substance use at discharge (primary),13,Benzodiazepines,"16,145",1.0%
+13,SUB1_D,Substance use at discharge (primary),14,Other tranquilizers,180,0.0%
+14,SUB1_D,Substance use at discharge (primary),15,Barbiturates,664,0.0%
+15,SUB1_D,Substance use at discharge (primary),16,Other sedatives or hypnotics,"1,925",0.1%
+16,SUB1_D,Substance use at discharge (primary),17,Inhalants,793,0.0%
+17,SUB1_D,Substance use at discharge (primary),18,Over-the-counter medications,573,0.0%
+18,SUB1_D,Substance use at discharge (primary),19,Other drugs,"11,018",0.7%
+19,SUB1_D,Substance use at discharge (primary),-9,Missing/unknown/not collected/invalid,"182,828",11.0%
+0,ROUTE1,Route of administration (primary),1,Oral,"623,418",37.4%
+1,ROUTE1,Route of administration (primary),2,Smoking,"386,570",23.2%
+2,ROUTE1,Route of administration (primary),3,Inhalation,"185,112",11.1%
+3,ROUTE1,Route of administration (primary),4,"Injection (intravenous, intramuscular, intradermal, or subcutaneous)","347,024",20.8%
+4,ROUTE1,Route of administration (primary),5,Other,"12,979",0.8%
+5,ROUTE1,Route of administration (primary),-9,Missing/unknown/not collected/invalid,"111,263",6.7%
+0,FREQ1,Frequency of use at admission (primary),1,No use in the past month,"402,392",24.1%
+1,FREQ1,Frequency of use at admission (primary),2,Some use,"413,282",24.8%
+2,FREQ1,Frequency of use at admission (primary),3,Daily use,"649,346",39.0%
+3,FREQ1,Frequency of use at admission (primary),-9,Missing/unknown/not collected/invalid,"201,346",12.1%
+0,FREQ1_D,Frequency of use at discharge (primary),1,No use in the past month,"616,969",37.0%
+1,FREQ1_D,Frequency of use at discharge (primary),2,Some use,"293,729",17.6%
+2,FREQ1_D,Frequency of use at discharge (primary),3,Daily use,"302,476",18.2%
+3,FREQ1_D,Frequency of use at discharge (primary),-9,Missing/unknown/not collected/invalid,"453,192",27.2%
+0,FRSTUSE1,Age at first use (primary),1,11 years and under,"88,764",5.3%
+1,FRSTUSE1,Age at first use (primary),2,12-14 years,"276,725",16.6%
+2,FRSTUSE1,Age at first use (primary),3,15-17 years,"384,892",23.1%
+3,FRSTUSE1,Age at first use (primary),4,18-20 years,"287,795",17.3%
+4,FRSTUSE1,Age at first use (primary),5,21-24 years,"188,524",11.3%
+5,FRSTUSE1,Age at first use (primary),6,25-29 years,"141,322",8.5%
+6,FRSTUSE1,Age at first use (primary),7,30 years and over,"177,802",10.7%
+7,FRSTUSE1,Age at first use (primary),-9,Missing/unknown/not collected/invalid,"120,542",7.2%
+0,SUB2,Substance use at admission (secondary),,,,
+0,SUB2,Substance use at admission (secondary),1,None,"711,983",42.7%
+1,SUB2,Substance use at admission (secondary),2,Alcohol,"151,527",9.1%
+2,SUB2,Substance use at admission (secondary),3,Cocaine/crack,"182,089",10.9%
+3,SUB2,Substance use at admission (secondary),4,Marijuana/hashish,"227,396",13.6%
+4,SUB2,Substance use at admission (secondary),5,Heroin,"59,396",3.6%
+5,SUB2,Substance use at admission (secondary),6,Non-prescription methadone,"2,855",0.2%
+6,SUB2,Substance use at admission (secondary),7,Other opiates and synthetics,"66,081",4.0%
+7,SUB2,Substance use at admission (secondary),8,PCP,"2,570",0.2%
+8,SUB2,Substance use at admission (secondary),9,Hallucinogens,"3,041",0.2%
+9,SUB2,Substance use at admission (secondary),10,Methamphetamine/speed,"98,465",5.9%
+10,SUB2,Substance use at admission (secondary),11,Other amphetamines,"8,391",0.5%
+11,SUB2,Substance use at admission (secondary),12,Other stimulants,"4,148",0.2%
+12,SUB2,Substance use at admission (secondary),13,Benzodiazepines,"53,657",3.2%
+13,SUB2,Substance use at admission (secondary),14,Other tranquilizers,292,0.0%
+14,SUB2,Substance use at admission (secondary),15,Barbiturates,608,0.0%
+15,SUB2,Substance use at admission (secondary),16,Other sedatives or hypnotics,"3,594",0.2%
+16,SUB2,Substance use at admission (secondary),17,Inhalants,730,0.0%
+17,SUB2,Substance use at admission (secondary),18,Over-the-counter medications,872,0.1%
+18,SUB2,Substance use at admission (secondary),19,Other drugs,"23,883",1.4%
+19,SUB2,Substance use at admission (secondary),-9,Missing/unknown/not collected/invalid,"64,788",3.9%
+0,SUB2_D,Substance use at discharge (secondary),1,None,"798,418",47.9%
+1,SUB2_D,Substance use at discharge (secondary),2,Alcohol,"132,237",7.9%
+2,SUB2_D,Substance use at discharge (secondary),3,Cocaine/crack,"153,597",9.2%
+3,SUB2_D,Substance use at discharge (secondary),4,Marijuana/hashish,"205,214",12.3%
+4,SUB2_D,Substance use at discharge (secondary),5,Heroin,"51,192",3.1%
+5,SUB2_D,Substance use at discharge (secondary),6,Non-prescription methadone,"2,380",0.1%
+6,SUB2_D,Substance use at discharge (secondary),7,Other opiates and synthetics,"59,242",3.6%
+7,SUB2_D,Substance use at discharge (secondary),8,PCP,"1,968",0.1%
+8,SUB2_D,Substance use at discharge (secondary),9,Hallucinogens,"2,718",0.2%
+9,SUB2_D,Substance use at discharge (secondary),10,Methamphetamine/speed,"86,474",5.2%
+10,SUB2_D,Substance use at discharge (secondary),11,Other amphetamines,"7,855",0.5%
+11,SUB2_D,Substance use at discharge (secondary),12,Other stimulants,"4,092",0.2%
+12,SUB2_D,Substance use at discharge (secondary),13,Benzodiazepines,"44,098",2.6%
+13,SUB2_D,Substance use at discharge (secondary),14,Other tranquilizers,277,0.0%
+14,SUB2_D,Substance use at discharge (secondary),15,Barbiturates,534,0.0%
+15,SUB2_D,Substance use at discharge (secondary),16,Other sedatives or hypnotics,"3,532",0.2%
+16,SUB2_D,Substance use at discharge (secondary),17,Inhalants,740,0.0%
+17,SUB2_D,Substance use at discharge (secondary),18,Over-the-counter medications,732,0.0%
+18,SUB2_D,Substance use at discharge (secondary),19,Other drugs,"23,215",1.4%
+19,SUB2_D,Substance use at discharge (secondary),-9,Missing/unknown/not collected/invalid,"87,851",5.3%
+0,ROUTE2,Route of administration (secondary),1,Oral,"268,655",16.1%
+1,ROUTE2,Route of administration (secondary),2,Smoking,"384,398",23.1%
+2,ROUTE2,Route of administration (secondary),3,Inhalation,"114,546",6.9%
+3,ROUTE2,Route of administration (secondary),4,"Injection (intravenous, intramuscular, intradermal, or subcutaneous)","112,866",6.8%
+4,ROUTE2,Route of administration (secondary),5,Other,"5,583",0.3%
+5,ROUTE2,Route of administration (secondary),-9,Missing/unknown/not collected/invalid,"780,318",46.8%
+0,FREQ2,Frequency of use at admission (secondary),1,No use in the past month,"303,595",18.2%
+1,FREQ2,Frequency of use at admission (secondary),2,Some use,"305,767",18.3%
+2,FREQ2,Frequency of use at admission (secondary),3,Daily use,"276,726",16.6%
+3,FREQ2,Frequency of use at admission (secondary),-9,Missing/unknown/not collected/invalid,"780,278",46.8%
+0,FREQ2_D,Frequency of use at discharge (secondary),1,No use in the past month,18,0.0%
+1,FREQ2_D,Frequency of use at discharge (secondary),2,Some use,"480,328",28.8%
+2,FREQ2_D,Frequency of use at discharge (secondary),3,Daily use,"52,318",3.1%
+3,FREQ2_D,Frequency of use at discharge (secondary),-9,Missing/unknown/not collected/invalid,"1,133,702",68.0%
+0,FRSTUSE2,Age at first use (secondary),1,11 years and under,"50,721",3.0%
+1,FRSTUSE2,Age at first use (secondary),2,12-14 years,"174,668",10.5%
+2,FRSTUSE2,Age at first use (secondary),3,15-17 years,"230,475",13.8%
+3,FRSTUSE2,Age at first use (secondary),4,18-20 years,"155,911",9.4%
+4,FRSTUSE2,Age at first use (secondary),5,21-24 years,"94,971",5.7%
+5,FRSTUSE2,Age at first use (secondary),6,25-29 years,"77,289",4.6%
+6,FRSTUSE2,Age at first use (secondary),7,30 years and over,"99,375",6.0%
+7,FRSTUSE2,Age at first use (secondary),-9,Missing/unknown/not collected/invalid,"782,956",47.0%
+0,SUB3,Substance use at admission (tertiary),,,,
+0,SUB3,Substance use at admission (tertiary),1,None,"1,164,840",69.9%
+1,SUB3,Substance use at admission (tertiary),2,Alcohol,"61,892",3.7%
+2,SUB3,Substance use at admission (tertiary),3,Cocaine/crack,"57,068",3.4%
+3,SUB3,Substance use at admission (tertiary),4,Marijuana/hashish,"93,890",5.6%
+4,SUB3,Substance use at admission (tertiary),5,Heroin,"16,786",1.0%
+5,SUB3,Substance use at admission (tertiary),6,Non-prescription methadone,"1,409",0.1%
+6,SUB3,Substance use at admission (tertiary),7,Other opiates and synthetics,"25,718",1.5%
+7,SUB3,Substance use at admission (tertiary),8,PCP,"1,558",0.1%
+8,SUB3,Substance use at admission (tertiary),9,Hallucinogens,"3,532",0.2%
+9,SUB3,Substance use at admission (tertiary),10,Methamphetamine/speed,"25,294",1.5%
+10,SUB3,Substance use at admission (tertiary),11,Other amphetamines,"5,474",0.3%
+11,SUB3,Substance use at admission (tertiary),12,Other stimulants,"3,630",0.2%
+12,SUB3,Substance use at admission (tertiary),13,Benzodiazepines,"31,467",1.9%
+13,SUB3,Substance use at admission (tertiary),14,Other tranquilizers,147,0.0%
+14,SUB3,Substance use at admission (tertiary),15,Barbiturates,380,0.0%
+15,SUB3,Substance use at admission (tertiary),16,Other sedatives or hypnotics,"2,066",0.1%
+16,SUB3,Substance use at admission (tertiary),17,Inhalants,434,0.0%
+17,SUB3,Substance use at admission (tertiary),18,Over-the-counter medications,676,0.0%
+18,SUB3,Substance use at admission (tertiary),19,Other drugs,"19,804",1.2%
+19,SUB3,Substance use at admission (tertiary),-9,Missing/unknown/not collected/invalid,"150,301",9.0%
+0,SUB3_D,Substance use at discharge (tertiary),1,None,"1,286,539",77.2%
+1,SUB3_D,Substance use at discharge (tertiary),2,Alcohol,"56,456",3.4%
+2,SUB3_D,Substance use at discharge (tertiary),3,Cocaine/crack,"48,120",2.9%
+3,SUB3_D,Substance use at discharge (tertiary),4,Marijuana/hashish,"85,575",5.1%
+4,SUB3_D,Substance use at discharge (tertiary),5,Heroin,"14,721",0.9%
+5,SUB3_D,Substance use at discharge (tertiary),6,Non-prescription methadone,"1,055",0.1%
+6,SUB3_D,Substance use at discharge (tertiary),7,Other opiates and synthetics,"22,966",1.4%
+7,SUB3_D,Substance use at discharge (tertiary),8,PCP,"1,286",0.1%
+8,SUB3_D,Substance use at discharge (tertiary),9,Hallucinogens,"3,149",0.2%
+9,SUB3_D,Substance use at discharge (tertiary),10,Methamphetamine/speed,"26,371",1.6%
+10,SUB3_D,Substance use at discharge (tertiary),11,Other amphetamines,"4,897",0.3%
+11,SUB3_D,Substance use at discharge (tertiary),12,Other stimulants,"3,267",0.2%
+12,SUB3_D,Substance use at discharge (tertiary),13,Benzodiazepines,"27,050",1.6%
+13,SUB3_D,Substance use at discharge (tertiary),14,Other tranquilizers,154,0.0%
+14,SUB3_D,Substance use at discharge (tertiary),15,Barbiturates,333,0.0%
+15,SUB3_D,Substance use at discharge (tertiary),16,Other sedatives or hypnotics,"2,250",0.1%
+16,SUB3_D,Substance use at discharge (tertiary),17,Inhalants,408,0.0%
+17,SUB3_D,Substance use at discharge (tertiary),18,Over-the-counter medications,630,0.0%
+18,SUB3_D,Substance use at discharge (tertiary),19,Other drugs,"19,917",1.2%
+19,SUB3_D,Substance use at discharge (tertiary),-9,Missing/unknown/not collected/invalid,"61,222",3.7%
+0,ROUTE3,Route of administration (tertiary),1,Oral,"126,463",7.6%
+1,ROUTE3,Route of administration (tertiary),2,Smoking,"149,651",9.0%
+2,ROUTE3,Route of administration (tertiary),3,Inhalation,"47,881",2.9%
+3,ROUTE3,Route of administration (tertiary),4,"Injection (intravenous, intramuscular, intradermal, or subcutaneous)","31,693",1.9%
+4,ROUTE3,Route of administration (tertiary),5,Other,"2,463",0.1%
+5,ROUTE3,Route of administration (tertiary),-9,Missing/unknown/not collected/invalid,"1,308,215",78.5%
+0,FREQ3,Frequency of use at admission (tertiary),1,No use in the past month,"132,527",8.0%
+1,FREQ3,Frequency of use at admission (tertiary),2,Some use,"111,363",6.7%
+2,FREQ3,Frequency of use at admission (tertiary),3,Daily use,"96,698",5.8%
+3,FREQ3,Frequency of use at admission (tertiary),-9,Missing/unknown/not collected/invalid,"1,325,778",79.6%
+0,FREQ3_D,Frequency of use at discharge (tertiary),1,No use in the past month,"167,603",10.1%
+1,FREQ3_D,Frequency of use at discharge (tertiary),2,Some use,"69,939",4.2%
+2,FREQ3_D,Frequency of use at discharge (tertiary),3,Daily use,"50,217",3.0%
+3,FREQ3_D,Frequency of use at discharge (tertiary),-9,Missing/unknown/not collected/invalid,"1,378,607",82.7%
+0,FRSTUSE3,Age at first use (tertiary),1,11 years and under,"24,092",1.4%
+1,FRSTUSE3,Age at first use (tertiary),2,12-14 years,"81,128",4.9%
+2,FRSTUSE3,Age at first use (tertiary),3,15-17 years,"96,201",5.8%
+3,FRSTUSE3,Age at first use (tertiary),4,18-20 years,"59,668",3.6%
+4,FRSTUSE3,Age at first use (tertiary),5,21-24 years,"33,783",2.0%
+5,FRSTUSE3,Age at first use (tertiary),6,25-29 years,"27,245",1.6%
+6,FRSTUSE3,Age at first use (tertiary),7,30 years and over,"35,863",2.2%
+7,FRSTUSE3,Age at first use (tertiary),-9,Missing/unknown/not collected/invalid,"1,308,386",78.5%
+0,IDU,Current IV drug use reported at admission,0,IDU not reported,"212,560",12.8%
+1,IDU,Current IV drug use reported at admission,1,IDU reported,"395,463",23.7%
+2,IDU,Current IV drug use reported at admission,-9,No substances reported,"1,058,343",63.5%
+0,ALCFLG,Alcohol reported at admission,0,Substance not reported,"946,401",56.8%
+1,ALCFLG,Alcohol reported at admission,1,Substance reported,"719,965",43.2%
+0,COKEFLG,Cocaine/crack reported at admission,0,Substance not reported,"1,332,896",80.0%
+1,COKEFLG,Cocaine/crack reported at admission,1,Substance reported,"333,470",20.0%
+0,MARFLG,Marijuana/hashish reported at admission,0,Substance not reported,"1,144,312",68.7%
+1,MARFLG,Marijuana/hashish reported at admission,1,Substance reported,"522,054",31.3%
+0,HERFLG,Heroin reported at admission,0,Substance not reported,"1,191,291",71.5%
+1,HERFLG,Heroin reported at admission,1,Substance reported,"475,075",28.5%
+0,METHFLG,Non-rx methadone reported at admission,0,Substance not reported,"1,658,939",99.6%
+1,METHFLG,Non-rx methadone reported at admission,1,Substance reported,"7,427",0.4%
+0,OPSYNFLG,Other opiates/synthetics reported at admission,0,Substance not reported,"1,449,754",87.0%
+1,OPSYNFLG,Other opiates/synthetics reported at admission,1,Substance reported,"216,612",13.0%
+0,PCPFLG,PCP reported at admission,0,Substance not reported,"1,658,004",99.5%
+1,PCPFLG,PCP reported at admission,1,Substance reported,"8,362",0.5%
+0,HALLFLG,Hallucinogens reported at admission,0,Substance not reported,"1,657,745",99.5%
+1,HALLFLG,Hallucinogens reported at admission,1,Substance reported,"8,621",0.5%
+0,MTHAMFLG,Methamphetamine/speed reported at admission,0,Substance not reported,"1,357,034",81.4%
+1,MTHAMFLG,Methamphetamine/speed reported at admission,1,Substance reported,"309,332",18.6%
+0,AMPHFLG,Other amphetamines reported at admission,0,Substance not reported,"1,643,945",98.7%
+1,AMPHFLG,Other amphetamines reported at admission,1,Substance reported,"22,421",1.3%
+0,STIMFLG,Other stimulants reported at admission,0,Substance not reported,"1,656,401",99.4%
+1,STIMFLG,Other stimulants reported at admission,1,Substance reported,"9,965",0.6%
+0,BENZFLG,Benzodiazepines reported at admission,0,Substance not reported,"1,562,813",93.8%
+1,BENZFLG,Benzodiazepines reported at admission,1,Substance reported,"103,553",6.2%
+0,TRNQFLG,Other tranquilizers reported at admission,0,Substance not reported,"1,665,736",100%
+1,TRNQFLG,Other tranquilizers reported at admission,1,Substance reported,630,0.0%
+0,BARBFLG,Barbiturates reported at admission,0,Substance not reported,"1,664,431",99.9%
+1,BARBFLG,Barbiturates reported at admission,1,Substance reported,"1,935",0.1%
+0,SEDHPFLG,Other sedatives/hypnotics reported at admission,0,Substance not reported,"1,658,785",99.5%
+1,SEDHPFLG,Other sedatives/hypnotics reported at admission,1,Substance reported,"7,581",0.5%
+0,INHFLG,Inhalants reported at admission,0,Substance not reported,"1,664,437",99.9%
+1,INHFLG,Inhalants reported at admission,1,Substance reported,"1,929",0.1%
+0,OTCFLG,Over-the-counter medication reported at admission,0,Substance not reported,"1,664,253",99.9%
+1,OTCFLG,Over-the-counter medication reported at admission,1,Substance reported,"2,113",0.1%
+0,OTHERFLG,Other drug reported at admission,0,Substance not reported,"1,610,742",96.7%
+1,OTHERFLG,Other drug reported at admission,1,Substance reported,"55,624",3.3%
+0,ALCDRUG,Substance use type,0,None,"100,517",6.0%
+1,ALCDRUG,Substance use type,1,Alcohol only,"277,840",16.7%
+2,ALCDRUG,Substance use type,2,Other drugs only,"845,890",50.8%
+3,ALCDRUG,Substance use type,3,Alcohol and other drugs,"442,119",26.5%
+0,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),1,Alcohol-induced disorder,"11,890",0.7%
+1,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),2,Substance-induced disorder,"34,928",2.1%
+2,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),3,Alcohol intoxication,"31,529",1.9%
+3,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),4,Alcohol dependence,"267,861",16.1%
+4,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),5,Opioid dependence,"366,176",22.0%
+5,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),6,Cocaine dependence,"53,511",3.2%
+6,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),7,Cannabis dependence,"87,260",5.2%
+7,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),8,Other substance dependence,"127,286",7.6%
+8,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),9,Alcohol abuse,"51,108",3.1%
+9,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),10,Cannabis abuse,"42,070",2.5%
+10,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),11,Other substance abuse,"21,724",1.3%
+11,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),12,Opioid abuse,"16,371",1.0%
+12,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),13,Cocaine abuse,"8,320",0.5%
+13,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),14,Anxiety disorders,"4,854",0.3%
+14,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),15,Depressive disorders,"6,528",0.4%
+15,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),16,Schizophrenia/other psychotic disorders,"1,646",0.1%
+16,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),17,Bipolar disorders,"2,773",0.2%
+17,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),18,Attention deficit/disruptive behavior disorders,568,0.0%
+18,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),19,Other mental health condition,"126,456",7.6%
+19,DSMCRIT,DSM diagnosis (SuDS 4 or SuDS 19),-9,Missing/unknown/not collected/invalid/no or deferred diagnosis,"403,507",24.2%
+0,PSYPROB,Co-occurring mental and substance use disorders,1,Yes,"612,348",36.7%
+1,PSYPROB,Co-occurring mental and substance use disorders,2,No,"824,791",49.5%
+2,PSYPROB,Co-occurring mental and substance use disorders,-9,Missing/unknown/not collected/invalid,"229,227",13.8%
+0,HLTHINS,Health insurance,1,"Private insurance, Blue Cross/Blue Shield, HMO","64,110",3.8%
+1,HLTHINS,Health insurance,2,Medicaid,"398,090",23.9%
+2,HLTHINS,Health insurance,3,"Medicare, other (e.g. TRICARE, CHAMPUS)","61,189",3.7%
+3,HLTHINS,Health insurance,4,None,"256,465",15.4%
+4,HLTHINS,Health insurance,-9,Missing/unknown/not collected/invalid,"886,512",53.2%
+0,PRIMPAY,"Payment source, primary (expected or actual)",1,Self-pay,"50,724",3.0%
+1,PRIMPAY,"Payment source, primary (expected or actual)",2,"Private insurance (Blue Cross/Blue Shield, other health insurance,workers compensation)","41,771",2.5%
+2,PRIMPAY,"Payment source, primary (expected or actual)",3,Medicare,"12,856",0.8%
+3,PRIMPAY,"Payment source, primary (expected or actual)",4,Medicaid,"360,536",21.6%
+4,PRIMPAY,"Payment source, primary (expected or actual)",5,Other government payments,"172,320",10.3%
+5,PRIMPAY,"Payment source, primary (expected or actual)",6,"No charge (free, charity, special research, teaching)","19,423",1.2%
+6,PRIMPAY,"Payment source, primary (expected or actual)",7,Other,"42,710",2.6%
+7,PRIMPAY,"Payment source, primary (expected or actual)",-9,Missing/unknown/not collected/invalid,"966,026",58.0%
+0,FREQ_ATND_SELF_HELP,Attendance at substance use self-help groups in past 30 days prior to admission,1,No attendance,"995,720",59.8%
+1,FREQ_ATND_SELF_HELP,Attendance at substance use self-help groups in past 30 days prior to admission,2,1-3 times in the past month,"98,905",5.9%
+2,FREQ_ATND_SELF_HELP,Attendance at substance use self-help groups in past 30 days prior to admission,3,4-7 times in the past month,"59,773",3.6%
+3,FREQ_ATND_SELF_HELP,Attendance at substance use self-help groups in past 30 days prior to admission,4,8-30 times in the past month,"115,995",7.0%
+4,FREQ_ATND_SELF_HELP,Attendance at substance use self-help groups in past 30 days prior to admission,5,"Some attendance, frequency is unknown","70,268",4.2%
+5,FREQ_ATND_SELF_HELP,Attendance at substance use self-help groups in past 30 days prior to admission,-9,Missing/unknown/not collected/invalid,"325,705",19.5%
+0,FREQ_ATND_SELF_HELP_D,Attendance at substance use self-help groups in past 30 days prior to discharge,1,No attendance,"781,085",46.9%
+1,FREQ_ATND_SELF_HELP_D,Attendance at substance use self-help groups in past 30 days prior to discharge,2,1-3 times in the past month,"116,901",7.0%
+2,FREQ_ATND_SELF_HELP_D,Attendance at substance use self-help groups in past 30 days prior to discharge,3,4-7 times in the past month,"79,509",4.8%
+3,FREQ_ATND_SELF_HELP_D,Attendance at substance use self-help groups in past 30 days prior to discharge,4,8-30 times in the past month,"188,890",11.3%
+4,FREQ_ATND_SELF_HELP_D,Attendance at substance use self-help groups in past 30 days prior to discharge,5,"Some attendance, frequency is unknown","117,728",7.1%
+5,FREQ_ATND_SELF_HELP_D,Attendance at substance use self-help groups in past 30 days prior to discharge,-9,Missing/unknown/not collected/invalid,"382,253",22.9%
