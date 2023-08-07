@@ -1,0 +1,1024 @@
+,2019_recode,2018_recode,2017_recode,2016_recode,2015_recode,2006-2014_recode,code,field
+0,No,No,No,No,No,No,2,VET
+1,Yes,Yes,Yes,Yes,Yes,Yes,1,VET
+2,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,VET
+3,Northeast,Northeast,Northeast,Northeast,Northeast,Northeast,1,REGION
+4,Midwest,Midwest,Midwest,Midwest,Midwest,Midwest,2,REGION
+5,U.S. jurisdiction/ territories,U.S. jurisdiction/ territories,U.S. jurisdiction/ territories,U.S. jurisdiction/ territories,U.S. jurisdiction/ territories,U.S. jurisdiction/ territories,0,REGION
+6,West,West,West,West,West,West,4,REGION
+7,South,South,South,South,South,South,3,REGION
+8,Bipolar disorders,Bipolar disorders,Bipolar disorders,Bipolar disorders,Bipolar disorders,Bipolar disorders,17,DSMCRIT
+9,Other substance abuse,Other substance abuse,Other substance abuse,Other substance abuse,Other substance abuse,Other substance abuse,11,DSMCRIT
+10,Anxiety disorders,Anxiety disorders,Anxiety disorders,Anxiety disorders,Anxiety disorders,Anxiety disorders,14,DSMCRIT
+11,Other mental health condition,Other mental health condition,Other mental health condition,Other mental health condition,Other mental health condition,Other mental health condition,19,DSMCRIT
+12,Other,Other,Other,Other,Other,Other,20,DSMCRIT
+13,Alcohol-induced disorder,Alcohol-induced disorder,Alcohol-induced disorder,Alcohol-induced disorder,Alcohol-induced disorder,Alcohol-induced disorder,1,DSMCRIT
+14,Substance-induced disorder,Substance-induced disorder,Substance-induced disorder,Substance-induced disorder,Substance-induced disorder,Substance-induced disorder,2,DSMCRIT
+15,Cocaine abuse,Cocaine abuse,Cocaine abuse,Cocaine abuse,Cocaine abuse,Cocaine abuse,13,DSMCRIT
+16,Schizophrenia/other psychotic disorders,Schizophrenia/other psychotic disorders,Schizophrenia/other psychotic disorders,Schizophrenia/other psychotic disorders,Schizophrenia/other psychotic disorders,Schizophrenia/other psychotic disorders,16,DSMCRIT
+17,Alcohol intoxication,Alcohol intoxication,Alcohol intoxication,Alcohol intoxication,Alcohol intoxication,Alcohol intoxication,3,DSMCRIT
+18,Attention deficit/disruptive behavior disorders,Attention deficit/disruptive behavior disorders,Attention deficit/disruptive behavior disorders,Attention deficit/disruptive behavior disorders,Attention deficit/disruptive behavior disorders,Attention deficit/disruptive behavior disorders,18,DSMCRIT
+19,Cannabis dependence,Cannabis dependence,Cannabis dependence,Cannabis dependence,Cannabis dependence,Cannabis dependence,7,DSMCRIT
+20,Opioid abuse,Opioid abuse,Opioid abuse,Opioid abuse,Opioid abuse,Opioid abuse,12,DSMCRIT
+21,Cocaine dependence,Cocaine dependence,Cocaine dependence,Cocaine dependence,Cocaine dependence,Cocaine dependence,6,DSMCRIT
+22,Alcohol abuse,Alcohol abuse,Alcohol abuse,Alcohol abuse,Alcohol abuse,Alcohol abuse,9,DSMCRIT
+23,Alcohol dependence,Alcohol dependence,Alcohol dependence,Alcohol dependence,Alcohol dependence,Alcohol dependence,4,DSMCRIT
+24,Cannabis abuse,Cannabis abuse,Cannabis abuse,Cannabis abuse,Cannabis abuse,Cannabis abuse,10,DSMCRIT
+25,Opioid dependence,Opioid dependence,Opioid dependence,Opioid dependence,Opioid dependence,Opioid dependence,5,DSMCRIT
+26,Other substance dependence,Other substance dependence,Other substance dependence,Other substance dependence,Other substance dependence,Other substance dependence,8,DSMCRIT
+27,Missing/unknown/not collected/invalid/no or deferred diagnosis,Missing/unknown/not collected/invalid/no or deferred diagnosis,Missing/unknown/not collected/invalid/no or deferred diagnosis,Missing/unknown/not collected/invalid/no or deferred diagnosis,Missing/unknown/not collected/invalid/no or deferred diagnosis,Missing/unknown/not collected/invalid/no or deferred diagnosis,-9,DSMCRIT
+28,Depressive disorders,Depressive disorders,Depressive disorders,Depressive disorders,Depressive disorders,Depressive disorders,15,DSMCRIT
+29,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,OTCFLG
+30,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,OTCFLG
+31,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,ALCFLG
+32,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,ALCFLG
+33,,,,,,,2017,DISYR
+34,,,,,,,2009,DISYR
+35,,,,,,,2013,DISYR
+36,,,,,,,2016,DISYR
+37,,,,,,,2006,DISYR
+38,,,,,,,2012,DISYR
+39,,,,,,,2011,DISYR
+40,,,,,,,2007,DISYR
+41,,,,,,,2008,DISYR
+42,,,,,,,2018,DISYR
+43,,,,,,,2010,DISYR
+44,,,,,,,2014,DISYR
+45,,,,,,,2015,DISYR
+46,2019,2019,2019,2019,2019,2019,2019,DISYR
+47,Puerto Rican,Puerto Rican,Puerto Rican,Puerto Rican,Puerto Rican,Puerto Rican,1,ETHNICITY
+48,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,ETHNICITY
+49,Mexican,Mexican,Mexican,Mexican,Mexican,Mexican,2,ETHNICITY
+50,Not of Hispanic or Latino origin,Not of Hispanic or Latino origin,Not of Hispanic or Latino origin,Not of Hispanic or Latino origin,Not of Hispanic or Latino origin,Cuban or other specific Hispanic,4,ETHNICITY
+51,"Hispanic or Latino, specific origin not specified","Hispanic or Latino, specific origin not specified","Hispanic or Latino, specific origin not specified","Hispanic or Latino, specific origin not specified","Hispanic or Latino, specific origin not specified",Not of Hispanic or Latino origin,5,ETHNICITY
+52,Cuban or other specific Hispanic,Cuban or other specific Hispanic,Cuban or other specific Hispanic,Cuban or other specific Hispanic,Cuban or other specific Hispanic,Cuban or other specific Hispanic,3,ETHNICITY
+53,,,,,,"Hispanic or Latino, specific origin not specified",6,ETHNICITY
+54,Other,Other,Other,Other,Other,Other,20,ROUTE1
+55,Oral,Oral,Oral,Oral,Oral,Oral,1,ROUTE1
+56,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,ROUTE1
+57,Smoking,Smoking,Smoking,Smoking,Smoking,Smoking,2,ROUTE1
+58,"Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)",4,ROUTE1
+59,Other,Other,Other,Other,Other,Other,5,ROUTE1
+60,Inhalation,Inhalation,Inhalation,Inhalation,Inhalation,Inhalation,3,ROUTE1
+61,West South Central,West South Central,West South Central,West South Central,West South Central,West South Central,7,DIVISION
+62,New England,New England,New England,New England,New England,New England,1,DIVISION
+63,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,2,DIVISION
+64,East South Central,East South Central,East South Central,East South Central,East South Central,East South Central,6,DIVISION
+65,U.S. jurisdiction/ territories,U.S. jurisdiction/ territories,U.S. jurisdiction/ territories,U.S. jurisdiction/ territories,U.S. jurisdiction/ territories,U.S. jurisdiction/ territories,0,DIVISION
+66,Pacific,Pacific,Pacific,Pacific,Pacific,Pacific,9,DIVISION
+67,West North Central,West North Central,West North Central,West North Central,West North Central,West North Central,4,DIVISION
+68,South Atlantic,South Atlantic,South Atlantic,South Atlantic,South Atlantic,South Atlantic,5,DIVISION
+69,Mountain,Mountain,Mountain,Mountain,Mountain,Mountain,8,DIVISION
+70,East North Central,East North Central,East North Central,East North Central,East North Central,East North Central,3,DIVISION
+71,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,1,NOPRIOR
+72,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,NOPRIOR
+73,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,2,NOPRIOR
+74,No prior treatment episodes,No prior treatment episodes,No prior treatment episodes,No prior treatment episodes,No prior treatment episodes,No prior treatment episodes,0,NOPRIOR
+75,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,4,NOPRIOR
+76,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,5,NOPRIOR
+77,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,One or more prior treatment episodes,3,NOPRIOR
+78,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,AMPHFLG
+79,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,AMPHFLG
+80,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,INHFLG
+81,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,INHFLG
+82,,,,,,,29180,CBSA
+83,,,,,,,16820,CBSA
+84,,,,,,,10740,CBSA
+85,,,,,,,45300,CBSA
+86,,,,,,,10780,CBSA
+87,,,,,,,25860,CBSA
+88,,,,,,,38660,CBSA
+89,,,,,,,23420,CBSA
+90,,,,,,,19340,CBSA
+91,,,,,,,10500,CBSA
+92,,,,,,,19060,CBSA
+93,,,,,,,13140,CBSA
+94,,,,,,,16620,CBSA
+95,,,,,,,20020,CBSA
+96,,,,,,,30140,CBSA
+97,,,,,,,41860,CBSA
+98,,,,,,,47260,CBSA
+99,,,,,,,27980,CBSA
+100,,,,,,,19100,CBSA
+101,,,,,,,19500,CBSA
+102,,,,,,,24860,CBSA
+103,,,,,,,34740,CBSA
+104,,,,,,,39660,CBSA
+105,,,,,,,36500,CBSA
+106,,,,,,,20700,CBSA
+107,,,,,,,30460,CBSA
+108,,,,,,,30940,CBSA
+109,,,,,,,49340,CBSA
+110,,,,,,,39900,CBSA
+111,,,,,,,X,CBSA
+112,,,,,,,30780,CBSA
+113,,,,,,,28420,CBSA
+114,,,,,,,41500,CBSA
+115,,,,,,,46520,CBSA
+116,,,,,,,22500,CBSA
+117,,,,,,,17200,CBSA
+118,,,,,,,33780,CBSA
+119,,,,,,,21060,CBSA
+120,,,,,,,20100,CBSA
+121,,,,,,,39820,CBSA
+122,,,,,,,29820,CBSA
+123,,,,,,,10580,CBSA
+124,,,,,,,28100,CBSA
+125,,,,,,,34820,CBSA
+126,,,,,,,27620,CBSA
+127,,,,,,,21340,CBSA
+128,,,,,,,17820,CBSA
+129,,,,,,,49620,CBSA
+130,,,,,,,11340,CBSA
+131,,,,,,,25420,CBSA
+132,,,,,,,49300,CBSA
+133,,,,,,,41140,CBSA
+134,,,,,,,10880,CBSA
+135,,,,,,,43900,CBSA
+136,,,,,,,42540,CBSA
+137,,,,,,,11700,CBSA
+138,,,,,,,41400,CBSA
+139,,,,,,,38860,CBSA
+140,,,,,,,45860,CBSA
+141,,,,,,,44100,CBSA
+142,,,,,,,26820,CBSA
+143,,,,,,,36220,CBSA
+144,,,,,,,47300,CBSA
+145,,,,,,,17660,CBSA
+146,,,,,,,21780,CBSA
+147,,,,,,,10180,CBSA
+148,,,,,,,22020,CBSA
+149,,,,,,,28740,CBSA
+150,,,,,,,38340,CBSA
+151,,,,,,,18180,CBSA
+152,,,,,,,39060,CBSA
+153,,,,,,,29620,CBSA
+154,,,,,,,37980,CBSA
+155,,,,,,,27460,CBSA
+156,,,,,,,17300,CBSA
+157,,,,,,,31460,CBSA
+158,,,,,,,42660,CBSA
+159,,,,,,,42140,CBSA
+160,,,,,,,25180,CBSA
+161,,,,,,,48900,CBSA
+162,,,,,,,24140,CBSA
+163,,,,,,,15540,CBSA
+164,,,,,,,45780,CBSA
+165,,,,,,,42200,CBSA
+166,,,,,,,40580,CBSA
+167,,,,,,,45940,CBSA
+168,,,,,,,27100,CBSA
+169,,,,,,,16740,CBSA
+170,,,,,,,19740,CBSA
+171,,,,,,,12980,CBSA
+172,,,,,,,14260,CBSA
+173,,,,,,,40420,CBSA
+174,,,,,,,26090,CBSA
+175,,,,,,,19820,CBSA
+176,,,,,,,11640,CBSA
+177,,,,,,,44700,CBSA
+178,,,,,,,39380,CBSA
+179,,,,,,,45220,CBSA
+180,,,,,,,12260,CBSA
+181,,,,,,,31900,CBSA
+182,,,,,,,44140,CBSA
+183,,,,,,,17140,CBSA
+184,,,,,,,46340,CBSA
+185,,,,,,,29540,CBSA
+186,,,,,,,36860,CBSA
+187,,,,,,,34580,CBSA
+188,,,,,,,28700,CBSA
+189,,,,,,,18580,CBSA
+190,,,,,,,12620,CBSA
+191,,,,,,,26420,CBSA
+192,,,,,,,36540,CBSA
+193,,,,,,,13740,CBSA
+194,,,,,,,49660,CBSA
+195,,,,,,,19380,CBSA
+196,,,,,,,34900,CBSA
+197,,,,,,,15940,CBSA
+198,,,,,,,46700,CBSA
+199,,,,,,,40220,CBSA
+200,,,,,,,10380,CBSA
+201,,,,,,,42020,CBSA
+202,,,,,,,12100,CBSA
+203,,,,,,,20940,CBSA
+204,,,,,,,43580,CBSA
+205,,,,,,,40140,CBSA
+206,,,,,,,17020,CBSA
+207,,,,,,,41180,CBSA
+208,,,,,,,40700,CBSA
+209,,,,,,,48700,CBSA
+210,,,,,,,29700,CBSA
+211,,,,,,,-9,CBSA
+212,,,,,,,42100,CBSA
+213,,,,,,,10420,CBSA
+214,,,,,,,17900,CBSA
+215,,,,,,,32820,CBSA
+216,,,,,,,33100,CBSA
+217,,,,,,,13780,CBSA
+218,,,,,,,14460,CBSA
+219,,,,,,,31700,CBSA
+220,,,,,,,49420,CBSA
+221,,,,,,,12220,CBSA
+222,,,,,,,28660,CBSA
+223,,,,,,,16980,CBSA
+224,,,,,,,45500,CBSA
+225,,,,,,,47940,CBSA
+226,,,,,,,41420,CBSA
+227,,,,,,,21500,CBSA
+228,,,,,,,14860,CBSA
+229,,,,,,,11260,CBSA
+230,,,,,,,27180,CBSA
+231,,,,,,,11100,CBSA
+232,,,,,,,47380,CBSA
+233,,,,,,,44220,CBSA
+234,,,,,,,12940,CBSA
+235,,,,,,,17980,CBSA
+236,,,,,,,31080,CBSA
+237,,,,,,,31140,CBSA
+238,,,,,,,41660,CBSA
+239,,,,,,,12540,CBSA
+240,,,,,,,44420,CBSA
+241,,,,,,,26980,CBSA
+242,,,,,,,29100,CBSA
+243,,,,,,,15380,CBSA
+244,,,,,,,15180,CBSA
+245,,,,,,,48060,CBSA
+246,,,,,,,13380,CBSA
+247,,,,,,,32900,CBSA
+248,,,,,,,35660,CBSA
+249,,,,,,,24540,CBSA
+250,,,,,,,11500,CBSA
+251,,,,,,,41540,CBSA
+252,,,,,,,14540,CBSA
+253,,,,,,,35300,CBSA
+254,,,,,,,22180,CBSA
+255,,,,,,,43300,CBSA
+256,,,,,,,31340,CBSA
+257,,,,,,,41940,CBSA
+258,,,,,,,41060,CBSA
+259,,,,,,,41980,CBSA
+260,,,,,,,40980,CBSA
+261,,,,,,,15980,CBSA
+262,,,,,,,27780,CBSA
+263,,,,,,,42220,CBSA
+264,,,,,,,24020,CBSA
+265,,,,,,,16300,CBSA
+266,,,,,,,17860,CBSA
+267,,,,,,,12580,CBSA
+268,,,,,,,31300,CBSA
+269,,,,,,,13460,CBSA
+270,,,,,,,28020,CBSA
+271,,,,,,,27740,CBSA
+272,,,,,,,46180,CBSA
+273,,,,,,,40900,CBSA
+274,,,,,,,27900,CBSA
+275,,,,,,,30620,CBSA
+276,,,,,,,13820,CBSA
+277,,,,,,,27340,CBSA
+278,,,,,,,22220,CBSA
+279,,,,,,,35380,CBSA
+280,,,,,,,24340,CBSA
+281,,,,,,,13020,CBSA
+282,,,,,,,47900,CBSA
+283,,,,,,,41620,CBSA
+284,,,,,,,32420,CBSA
+285,,,,,,,30860,CBSA
+286,,,,,,,48260,CBSA
+287,,,,,,,43340,CBSA
+288,,,,,,,34100,CBSA
+289,,,,,,,14140,CBSA
+290,,,,,,,16540,CBSA
+291,,,,,,,35620,CBSA
+292,,,,,,,22420,CBSA
+293,,,,,,,24300,CBSA
+294,,,,,,,14060,CBSA
+295,,,,,,,30340,CBSA
+296,,,,,,,12300,CBSA
+297,,,,,,,17780,CBSA
+298,,,,,,,12020,CBSA
+299,,,,,,,33260,CBSA
+300,,,,,,,25540,CBSA
+301,,,,,,,32580,CBSA
+302,,,,,,,41740,CBSA
+303,,,,,,,18140,CBSA
+304,,,,,,,13980,CBSA
+305,,,,,,,26380,CBSA
+306,,,,,,,43620,CBSA
+307,,,,,,,44300,CBSA
+308,,,,,,,35100,CBSA
+309,,,,,,,20500,CBSA
+310,,,,,,,36300,CBSA
+311,,,,,,,39740,CBSA
+312,,,,,,,42340,CBSA
+313,,,,,,,46660,CBSA
+314,,,,,,,24780,CBSA
+315,,,,,,,49180,CBSA
+316,,,,,,,17460,CBSA
+317,,,,,,,26900,CBSA
+318,,,,,,,40340,CBSA
+319,,,,,,,19460,CBSA
+320,,,,,,,45060,CBSA
+321,,,,,,,45900,CBSA
+322,,,,,,,40060,CBSA
+323,,,,,,,49020,CBSA
+324,,,,,,,19660,CBSA
+325,,,,,,,16860,CBSA
+326,,,,,,,12420,CBSA
+327,,,,,,,30700,CBSA
+328,,,,,,,35980,CBSA
+329,,,,,,,14740,CBSA
+330,,,,,,,36260,CBSA
+331,,,,,,,49700,CBSA
+332,,,,,,,11460,CBSA
+333,,,,,,,39300,CBSA
+334,,,,,,,28140,CBSA
+335,,,,,,,48620,CBSA
+336,,,,,,,38060,CBSA
+337,,,,,,,36980,CBSA
+338,,,,,,,22900,CBSA
+339,,,,,,,30980,CBSA
+340,,,,,,,34980,CBSA
+341,,,,,,,16580,CBSA
+342,,,,,,,33460,CBSA
+343,,,,,,,14500,CBSA
+344,,,,,,,47580,CBSA
+345,,,,,,,29340,CBSA
+346,,,,,,,33740,CBSA
+347,,,,,,,43780,CBSA
+348,,,,,,,44180,CBSA
+349,,,,,,,21660,CBSA
+350,,,,,,,24660,CBSA
+351,,,,,,,27860,CBSA
+352,,,,,,,47220,CBSA
+353,,,,,,,10540,CBSA
+354,,,,,,,25500,CBSA
+355,,,,,,,44940,CBSA
+356,,,,,,,19260,CBSA
+357,,,,,,,44060,CBSA
+358,,,,,,,37900,CBSA
+359,,,,,,,37100,CBSA
+360,,,,,,,46220,CBSA
+361,,,,,,,19140,CBSA
+362,,,,,,,48660,CBSA
+363,,,,,,,12060,CBSA
+364,,,,,,,19780,CBSA
+365,,,,,,,38900,CBSA
+366,,,,,,,39580,CBSA
+367,,,,,,,48540,CBSA
+368,,,,,,,21700,CBSA
+369,,,,,,,32780,CBSA
+370,,,,,,,15500,CBSA
+371,,,,,,,26580,CBSA
+372,,,,,,,11020,CBSA
+373,,,,,,,14010,CBSA
+374,,,,,,,28940,CBSA
+375,,,,,,,40380,CBSA
+376,,,,,,,22660,CBSA
+377,,,,,,,25940,CBSA
+378,,,,,,,39340,CBSA
+379,,,,,,,20260,CBSA
+380,,,,,,,45820,CBSA
+381,,,,,,,16700,CBSA
+382,,,,,,,11780,CBSA
+383,,,,,,,10900,CBSA
+384,,,,,,,46540,CBSA
+385,,,,,,,25220,CBSA
+386,,,,,,,41700,CBSA
+387,,,,,,,25900,CBSA
+388,,,,,,,11300,CBSA
+389,,,,,,,12700,CBSA
+390,,,,,,,38300,CBSA
+391,,,,,,,33700,CBSA
+392,,,,,,,38220,CBSA
+393,,,,,,,25260,CBSA
+394,,,,,,,31180,CBSA
+395,,,,,,,17420,CBSA
+396,No use in the past month,No use in the past month,No use in the past month,No use in the past month,No use in the past month,No use in the past month,1,FREQ3
+397,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,FREQ3
+398,Some use,Some use,Some use,Some use,Some use,Some use,2,FREQ3
+399,,,,,,,9,FREQ3
+400,,,,,,Some use,4,FREQ3
+401,,,,,,Daily use,5,FREQ3
+402,Daily use,Daily use,Daily use,Daily use,Daily use,Some use,3,FREQ3
+403,,,,,,,1,NUMSUBS
+404,,,,,,,2,NUMSUBS
+405,,,,,,,0,NUMSUBS
+406,,,,,,,3,NUMSUBS
+407,IDU reported,IDU reported,IDU reported,IDU reported,IDU reported,IDU reported,1,IDU
+408,No substances reported,No substances reported,No substances reported,No substances reported,No substances reported,No substances reported,-9,IDU
+409,IDU not reported,IDU not reported,IDU not reported,IDU not reported,IDU not reported,IDU not reported,0,IDU
+410,,,,,,No substances reported,-8,IDU
+411,Inhalants,Inhalants,Inhalants,Inhalants,Inhalants,Inhalants,17,SUB2_D
+412,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,11,SUB2_D
+413,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,14,SUB2_D
+414,Other,Other,Other,Other,Other,Other,19,SUB2_D
+415,None,None,None,None,None,None,1,SUB2_D
+416,Alcohol,Alcohol,Alcohol,Alcohol,Alcohol,Alcohol,2,SUB2_D
+417,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,13,SUB2_D
+418,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,16,SUB2_D
+419,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,3,SUB2_D
+420,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,18,SUB2_D
+421,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,7,SUB2_D
+422,Other stimulants,Other stimulants,Other stimulants,Other stimulants,Other stimulants,Other stimulants,12,SUB2_D
+423,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,6,SUB2_D
+424,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB2_D
+425,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB2_D
+426,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,4,SUB2_D
+427,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,10,SUB2_D
+428,Heroin,Heroin,Heroin,Heroin,Heroin,Heroin,5,SUB2_D
+429,PCP,PCP,PCP,PCP,PCP,PCP,8,SUB2_D
+430,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,SUB2_D
+431,Barbiturates,Barbiturates,Barbiturates,Barbiturates,Barbiturates,Barbiturates,15,SUB2_D
+432,No use in the past month,No use in the past month,No use in the past month,No use in the past month,No use in the past month,No use in the past month,1,FREQ1
+433,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,FREQ1
+434,Some use,Some use,Some use,Some use,Some use,Some use,2,FREQ1
+435,,,,,,,9,FREQ1
+436,,,,,,Some use,4,FREQ1
+437,,,,,,Daily use,5,FREQ1
+438,Daily use,Daily use,Daily use,Daily use,Daily use,Some use,3,FREQ1
+439,No,No,No,No,No,No,2,METHUSE
+440,Yes,Yes,Yes,Yes,Yes,Yes,1,METHUSE
+441,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,METHUSE
+442,Alcohol only,Alcohol only,Alcohol only,Alcohol only,Alcohol only,Alcohol only,1,ALCDRUG
+443,Other drugs only,Other drugs only,Other drugs only,Other drugs only,Other drugs only,Other drugs only,2,ALCDRUG
+444,None,None,None,None,None,None,0,ALCDRUG
+445,Alcohol and other drugs,Alcohol and other drugs,Alcohol and other drugs,Alcohol and other drugs,Alcohol and other drugs,Alcohol and other drugs,3,ALCDRUG
+446,Full-time,Full-time,Full-time,Full-time,Full-time,Full-time,1,EMPLOY
+447,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,EMPLOY
+448,Part-time,Part-time,Part-time,Part-time,Part-time,Part-time,2,EMPLOY
+449,Not in labor force,Not in labor force,Not in labor force,Not in labor force,Not in labor force,Not in labor force,4,EMPLOY
+450,Unemployed,Unemployed,Unemployed,Unemployed,Unemployed,Unemployed,3,EMPLOY
+451,"Ambulatory, non-intensive outpatient","Ambulatory, non-intensive outpatient","Ambulatory, non-intensive outpatient","Ambulatory, non-intensive outpatient","Ambulatory, non-intensive outpatient","Ambulatory, non-intensive outpatient",7,SERVSETD
+452,"Detox, 24-hour, hospital inpatient","Detox, 24-hour, hospital inpatient","Detox, 24-hour, hospital inpatient","Detox, 24-hour, hospital inpatient","Detox, 24-hour, hospital inpatient","Detox, 24-hour, hospital inpatient",1,SERVSETD
+453,MISSING/UNKNOWN/NOT COLLECTED/INVALID,MISSING/UNKNOWN/NOT COLLECTED/INVALID,MISSING/UNKNOWN/NOT COLLECTED/INVALID,MISSING/UNKNOWN/NOT COLLECTED/INVALID,MISSING/UNKNOWN/NOT COLLECTED/INVALID,MISSING/UNKNOWN/NOT COLLECTED/INVALID,-9,SERVSETD
+454,"Detox, 24-hour, free-standing residential","Detox, 24-hour, free-standing residential","Detox, 24-hour, free-standing residential","Detox, 24-hour, free-standing residential","Detox, 24-hour, free-standing residential","Detox, 24-hour, free-standing residential",2,SERVSETD
+455,"Ambulatory, intensive outpatient","Ambulatory, intensive outpatient","Ambulatory, intensive outpatient","Ambulatory, intensive outpatient","Ambulatory, intensive outpatient","Ambulatory, intensive outpatient",6,SERVSETD
+456,"Rehab/residential, short term (30 days or fewer)","Rehab/residential, short term (30 days or fewer)","Rehab/residential, short term (30 days or fewer)","Rehab/residential, short term (30 days or fewer)","Rehab/residential, short term (30 days or fewer)","Rehab/residential, short term (30 days or fewer)",4,SERVSETD
+457,"Rehab/residential, long term (more than 30 days)","Rehab/residential, long term (more than 30 days)","Rehab/residential, long term (more than 30 days)","Rehab/residential, long term (more than 30 days)","Rehab/residential, long term (more than 30 days)","Rehab/residential, long term (more than 30 days)",5,SERVSETD
+458,"Ambulatory, detoxification","Ambulatory, detoxification","Ambulatory, detoxification","Ambulatory, detoxification","Ambulatory, detoxification","Ambulatory, detoxification",8,SERVSETD
+459,"Rehab/residential, hospital (non-detox)","Rehab/residential, hospital (non-detox)","Rehab/residential, hospital (non-detox)","Rehab/residential, hospital (non-detox)","Rehab/residential, hospital (non-detox)","Rehab/residential, hospital (non-detox)",3,SERVSETD
+460,"Ambulatory, non-intensive outpatient","Ambulatory, non-intensive outpatient","Ambulatory, non-intensive outpatient","Ambulatory, non-intensive outpatient","Ambulatory, non-intensive outpatient","Ambulatory, non-intensive outpatient",7,SERVICES
+461,"Detox, 24-hour, hospital inpatient","Detox, 24-hour, hospital inpatient","Detox, 24-hour, hospital inpatient","Detox, 24-hour, hospital inpatient","Detox, 24-hour, hospital inpatient","Detox, 24-hour, hospital inpatient",1,SERVICES
+462,"Detox, 24-hour, free-standing residential","Detox, 24-hour, free-standing residential","Detox, 24-hour, free-standing residential","Detox, 24-hour, free-standing residential","Detox, 24-hour, free-standing residential","Detox, 24-hour, free-standing residential",2,SERVICES
+463,"Ambulatory, intensive outpatient","Ambulatory, intensive outpatient","Ambulatory, intensive outpatient","Ambulatory, intensive outpatient","Ambulatory, intensive outpatient","Ambulatory, intensive outpatient",6,SERVICES
+464,"Rehab/residential, short term (30 days or fewer)","Rehab/residential, short term (30 days or fewer)","Rehab/residential, short term (30 days or fewer)","Rehab/residential, short term (30 days or fewer)","Rehab/residential, short term (30 days or fewer)","Rehab/residential, short term (30 days or fewer)",4,SERVICES
+465,"Rehab/residential, long term (more than 30 days)","Rehab/residential, long term (more than 30 days)","Rehab/residential, long term (more than 30 days)","Rehab/residential, long term (more than 30 days)","Rehab/residential, long term (more than 30 days)","Rehab/residential, long term (more than 30 days)",5,SERVICES
+466,"Ambulatory, detoxification","Ambulatory, detoxification","Ambulatory, detoxification","Ambulatory, detoxification","Ambulatory, detoxification","Ambulatory, detoxification",8,SERVICES
+467,"Rehab/residential, hospital (non-detox)","Rehab/residential, hospital (non-detox)","Rehab/residential, hospital (non-detox)","Rehab/residential, hospital (non-detox)","Rehab/residential, hospital (non-detox)","Rehab/residential, hospital (non-detox)",3,SERVICES
+468,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,COKEFLG
+469,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,COKEFLG
+470,FREQ3,No use in the past month,No use in the past month,No use in the past month,No use in the past month,No use in the past month,1,FREQ2
+471,FREQ3,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,FREQ2
+472,FREQ3,Some use,Some use,Some use,Some use,Some use,2,FREQ2
+473,FREQ3,FREQ3,FREQ3,FREQ3,FREQ3,FREQ3,9,FREQ2
+474,FREQ3,FREQ3,FREQ3,FREQ3,FREQ3,FREQ3,4,FREQ2
+475,FREQ3,FREQ3,FREQ3,FREQ3,FREQ3,FREQ3,5,FREQ2
+476,FREQ3,Daily use,Daily use,Daily use,Daily use,Daily use,3,FREQ2
+477,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,7,FRSTUSE1
+478,11 years and under,11 years and under,11 years and under,11 years and under,11 years and under,11 years and under,1,FRSTUSE1
+479,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,11,FRSTUSE1
+480,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,FRSTUSE1
+481,12-14 years,12-14 years,12-14 years,12-14 years,12-14 years,12-14 years,2,FRSTUSE1
+482,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,12,FRSTUSE1
+483,25-29 years,25-29 years,25-29 years,25-29 years,25-29 years,25-29 years,6,FRSTUSE1
+484,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,9,FRSTUSE1
+485,18-20 years,18-20 years,18-20 years,18-20 years,18-20 years,18-20 years,4,FRSTUSE1
+486,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,10,FRSTUSE1
+487,21-24 years,21-24 years,21-24 years,21-24 years,21-24 years,21-24 years,5,FRSTUSE1
+488,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,8,FRSTUSE1
+489,15-17 years,15-17 years,15-17 years,15-17 years,15-17 years,15-17 years,3,FRSTUSE1
+490,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,MTHAMFLG
+491,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,MTHAMFLG
+492,Two or more times,Two or more times,Two or more times,Two or more times,Two or more times,Two or more times,2,ARRESTS_D
+493,Once,Once,Once,Once,Once,Once,1,ARRESTS_D
+494,None,None,None,None,None,None,0,ARRESTS_D
+495,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,ARRESTS_D
+496,Female,Female,Female,Female,Female,Female,2,GENDER
+497,Male,Male,Male,Male,Male,Male,1,GENDER
+498,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,GENDER
+499,Other,Other,Other,Other,Other,Other,20,PRIMINC
+500,None,None,None,None,None,None,21,PRIMINC
+501,Wages/salary,Wages/salary,Wages/salary,Wages/salary,Wages/salary,Wages/salary,1,PRIMINC
+502,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,PRIMINC
+503,Public assistance,Public assistance,Public assistance,Public assistance,Public assistance,Public assistance,2,PRIMINC
+504,Other,Other,Other,Other,Other,Other,4,PRIMINC
+505,None,None,None,None,None,None,5,PRIMINC
+506,"Retirement/pension, disability","Retirement/pension, disability","Retirement/pension, disability","Retirement/pension, disability","Retirement/pension, disability","Retirement/pension, disability",3,PRIMINC
+507,Homeless,Homeless,Homeless,Homeless,Homeless,Homeless,1,LIVARAG
+508,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,LIVARAG
+509,Dependent living,Dependent living,Dependent living,Dependent living,Dependent living,Dependent living,2,LIVARAG
+510,,,,,,,9,LIVARAG
+511,Independent living,Independent living,Independent living,Independent living,Independent living,Independent living,3,LIVARAG
+512,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,7,FRSTUSE2
+513,11 years and under,11 years and under,11 years and under,11 years and under,11 years and under,11 years and under,1,FRSTUSE2
+514,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,11,FRSTUSE2
+515,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,FRSTUSE2
+516,12-14 years,12-14 years,12-14 years,12-14 years,12-14 years,12-14 years,2,FRSTUSE2
+517,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,12,FRSTUSE2
+518,25-29 years,25-29 years,25-29 years,25-29 years,25-29 years,25-29 years,6,FRSTUSE2
+519,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,9,FRSTUSE2
+520,18-20 years,18-20 years,18-20 years,18-20 years,18-20 years,18-20 years,4,FRSTUSE2
+521,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,10,FRSTUSE2
+522,21-24 years,21-24 years,21-24 years,21-24 years,21-24 years,21-24 years,5,FRSTUSE2
+523,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,8,FRSTUSE2
+524,15-17 years,15-17 years,15-17 years,15-17 years,15-17 years,15-17 years,3,FRSTUSE2
+525,Other,Other,Other,Other,Other,Other,20,ROUTE2
+526,Oral,Oral,Oral,Oral,Oral,Oral,1,ROUTE2
+527,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,ROUTE2
+528,Smoking,Smoking,Smoking,Smoking,Smoking,Smoking,2,ROUTE2
+529,"Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)",4,ROUTE2
+530,Other,Other,Other,Other,Other,Other,5,ROUTE2
+531,Inhalation,Inhalation,Inhalation,Inhalation,Inhalation,Inhalation,3,ROUTE2
+532,8 years or less,8 years or less,8 years or less,8 years or less,8 years or less,8 years or less,1,EDUC
+533,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,EDUC
+534,Grades 9 to 11,Grades 9 to 11,Grades 9 to 11,Grades 9 to 11,Grades 9 to 11,Grades 9 to 11,2,EDUC
+535,"1-3 years of college, university, or vocational school","1-3 years of college, university, or vocational school","1-3 years of college, university, or vocational school","1-3 years of college, university, or vocational school","1-3 years of college, university, or vocational school","1-3 years of college, university, or vocational school",4,EDUC
+536,"4 years of college, university, BA/BS, some postgraduate study, or more","4 years of college, university, BA/BS, some postgraduate study, or more","4 years of college, university, BA/BS, some postgraduate study, or more","4 years of college, university, BA/BS, some postgraduate study, or more","4 years of college, university, BA/BS, some postgraduate study, or more","4 years of college, university, BA/BS, some postgraduate study, or more",5,EDUC
+537,Grade 12 (or GED),Grade 12 (or GED),Grade 12 (or GED),Grade 12 (or GED),Grade 12 (or GED),Grade 12 (or GED),3,EDUC
+538,Full-time,Full-time,Full-time,Full-time,Full-time,Full-time,1,EMPLOY_D
+539,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,EMPLOY_D
+540,Part-time,Part-time,Part-time,Part-time,Part-time,Part-time,2,EMPLOY_D
+541,Not in labor force,Not in labor force,Not in labor force,Not in labor force,Not in labor force,Not in labor force,4,EMPLOY_D
+542,Unemployed,Unemployed,Unemployed,Unemployed,Unemployed,Unemployed,3,EMPLOY_D
+543,35-39 years,35-39 years,35-39 years,35-39 years,35-39 years,30-34 years,7,AGE
+544,12-14 years,12-14 years,12-14 years,12-14 years,12-14 years,12-14 years,1,AGE
+545,55 years and older,55 years and older,55 years and older,55 years and older,55 years and older,50-54 years,11,AGE
+546,55 years and older,55 years and older,55 years and older,55 years and older,55 years and older,55 years and older,12,AGE
+547,15-17 years,15-17 years,15-17 years,15-17 years,15-17 years,12-14 years,2,AGE
+548,30-34 years,30-34 years,30-34 years,30-34 years,30-34 years,25-29 years,6,AGE
+549,45-49 years,45-49 years,45-49 years,45-49 years,45-49 years,40-44 years,9,AGE
+550,21-24 years,21-24 years,21-24 years,21-24 years,21-24 years,18-20 years,4,AGE
+551,50-54 years,50-54 years,50-54 years,50-54 years,50-54 years,45-49 years,10,AGE
+552,25-29 years,25-29 years,25-29 years,25-29 years,25-29 years,21-24 years,5,AGE
+553,40-44 years,40-44 years,40-44 years,40-44 years,40-44 years,35-39 years,8,AGE
+554,18-20 years,18-20 years,18-20 years,18-20 years,18-20 years,15-17 years,3,AGE
+555,Homemaker,Homemaker,Homemaker,Homemaker,Homemaker,Homemaker,1,DETNLF_D
+556,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,DETNLF_D
+557,Student,Student,Student,Student,Student,Student,2,DETNLF_D
+558,,,,,,,9,DETNLF_D
+559,Resident of institution,Resident of institution,Resident of institution,Resident of institution,Resident of institution,Resident of institution,4,DETNLF_D
+560,Other,Other,Other,Other,Other,Other,5,DETNLF_D
+561,"Retired, disabled","Retired, disabled","Retired, disabled","Retired, disabled","Retired, disabled","Retired, disabled",3,DETNLF_D
+562,"Private insurance, Blue Cross/Blue Shield, HMO","Private insurance, Blue Cross/Blue Shield, HMO","Private insurance, Blue Cross/Blue Shield, HMO","Private insurance, Blue Cross/Blue Shield, HMO","Private insurance, Blue Cross/Blue Shield, HMO","Private insurance, Blue Cross/Blue Shield, HMO",1,HLTHINS
+563,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,HLTHINS
+564,Medicaid,Medicaid,Medicaid,Medicaid,Medicaid,Medicaid,2,HLTHINS
+565,None,None,None,None,None,None,4,HLTHINS
+566,"Medicare, other (e.g. TRICARE, CHAMPUS)","Medicare, other (e.g. TRICARE, CHAMPUS)","Medicare, other (e.g. TRICARE, CHAMPUS)","Medicare, other (e.g. TRICARE, CHAMPUS)","Medicare, other (e.g. TRICARE, CHAMPUS)","Medicare, other (e.g. TRICARE, CHAMPUS)",3,HLTHINS
+567,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,7,FRSTUSE3
+568,11 years and under,11 years and under,11 years and under,11 years and under,11 years and under,11 years and under,1,FRSTUSE3
+569,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,11,FRSTUSE3
+570,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,FRSTUSE3
+571,12-14 years,12-14 years,12-14 years,12-14 years,12-14 years,12-14 years,2,FRSTUSE3
+572,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,12,FRSTUSE3
+573,25-29 years,25-29 years,25-29 years,25-29 years,25-29 years,25-29 years,6,FRSTUSE3
+574,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,9,FRSTUSE3
+575,18-20 years,18-20 years,18-20 years,18-20 years,18-20 years,18-20 years,4,FRSTUSE3
+576,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,10,FRSTUSE3
+577,21-24 years,21-24 years,21-24 years,21-24 years,21-24 years,21-24 years,5,FRSTUSE3
+578,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,30 years and over,8,FRSTUSE3
+579,15-17 years,15-17 years,15-17 years,15-17 years,15-17 years,15-17 years,3,FRSTUSE3
+580,Other,Other,Other,Other,Other,Other,7,PRIMPAY
+581,Self-pay,Self-pay,Self-pay,Self-pay,Self-pay,Self-pay,1,PRIMPAY
+582,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,PRIMPAY
+583,"Private insurance (Blue Cross/Blue Shield, other health insurance,workers compensation)","Private insurance (Blue Cross/Blue Shield, other health insurance,workers compensation)","Private insurance (Blue Cross/Blue Shield, other health insurance,workers compensation)","Private insurance (Blue Cross/Blue Shield, other health insurance,workers compensation)","Private insurance (Blue Cross/Blue Shield, other health insurance,workers compensation)","Private insurance (Blue Cross/Blue Shield, other health insurance,workers compensation)",2,PRIMPAY
+584,"No charge (free, charity, special research, teaching)","No charge (free, charity, special research, teaching)","No charge (free, charity, special research, teaching)","No charge (free, charity, special research, teaching)","No charge (free, charity, special research, teaching)","No charge (free, charity, special research, teaching)",6,PRIMPAY
+585,Other,Other,Other,Other,Other,Other,9,PRIMPAY
+586,Medicaid,Medicaid,Medicaid,Medicaid,Medicaid,Medicaid,4,PRIMPAY
+587,Other government payments,Other government payments,Other government payments,Other government payments,Other government payments,Other government payments,5,PRIMPAY
+588,"No charge (free, charity, special research, teaching)","No charge (free, charity, special research, teaching)","No charge (free, charity, special research, teaching)","No charge (free, charity, special research, teaching)","No charge (free, charity, special research, teaching)","No charge (free, charity, special research, teaching)",8,PRIMPAY
+589,Medicare,Medicare,Medicare,Medicare,Medicare,Medicare,3,PRIMPAY
+590,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,STIMFLG
+591,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,STIMFLG
+592,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,METHFLG
+593,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,METHFLG
+594,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,MARFLG
+595,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,MARFLG
+596,Homemaker,Homemaker,Homemaker,Homemaker,Homemaker,Homemaker,1,DETNLF
+597,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,DETNLF
+598,Student,Student,Student,Student,Student,Student,2,DETNLF
+599,,,,,,Other,6,DETNLF
+600,,,,,,,9,DETNLF
+601,Resident of institution,Resident of institution,Resident of institution,Resident of institution,Resident of institution,Resident of institution,4,DETNLF
+602,Other,Other,Other,Other,Other,Resident of institution,5,DETNLF
+603,"Retired, disabled","Retired, disabled","Retired, disabled","Retired, disabled","Retired, disabled","Retired, disabled",3,DETNLF
+604,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,SEDHPFLG
+605,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,SEDHPFLG
+606,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,HERFLG
+607,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,HERFLG
+608,DUI/DWI,DUI/DWI,DUI/DWI,DUI/DWI,DUI/DWI,DUI/DWI,7,DETCRIM
+609,State/federal/other court,State/federal/other court,State/federal/other court,State/federal/other court,State/federal/other court,State/federal/other court,1,DETCRIM
+610,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,DETCRIM
+611,Formal adjudication process,Formal adjudication process,Formal adjudication process,Formal adjudication process,Formal adjudication process,Formal adjudication process,2,DETCRIM
+612,Prison,Prison,Prison,Prison,Prison,Prison,6,DETCRIM
+613,Other recognized legal entity,Other recognized legal entity,Other recognized legal entity,Other recognized legal entity,Other recognized legal entity,Other recognized legal entity,4,DETCRIM
+614,Diversionary program,Diversionary program,Diversionary program,Diversionary program,Diversionary program,Diversionary program,5,DETCRIM
+615,Other,Other,Other,Other,Other,Other,8,DETCRIM
+616,Probation/parole,Probation/parole,Probation/parole,Probation/parole,Probation/parole,Probation/parole,3,DETCRIM
+617,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,BARBFLG
+618,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,BARBFLG
+619,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,TRNQFLG
+620,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,TRNQFLG
+621,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,OTHERFLG
+622,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,OTHERFLG
+623,Other,Other,Other,Other,Other,Other,20,ROUTE3
+624,Oral,Oral,Oral,Oral,Oral,Oral,1,ROUTE3
+625,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,ROUTE3
+626,Smoking,Smoking,Smoking,Smoking,Smoking,Smoking,2,ROUTE3
+627,"Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)","Injection (intravenous, intramuscular, intradermal, or subcutaneous)",4,ROUTE3
+628,Other,Other,Other,Other,Other,Other,5,ROUTE3
+629,Inhalation,Inhalation,Inhalation,Inhalation,Inhalation,Inhalation,3,ROUTE3
+630,Inhalants,Inhalants,Inhalants,Inhalants,Inhalants,Inhalants,17,SUB3
+631,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,11,SUB3
+632,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,14,SUB3
+633,Other,Other,Other,Other,Other,Other,19,SUB3
+634,Other,Other,Other,Other,Other,Other,20,SUB3
+635,None,None,None,None,None,None,1,SUB3
+636,Alcohol,Alcohol,Alcohol,Alcohol,Alcohol,Alcohol,2,SUB3
+637,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,13,SUB3
+638,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,16,SUB3
+639,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,3,SUB3
+640,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,18,SUB3
+641,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,7,SUB3
+642,Other stimulants,Other stimulants,Other stimulants,Other stimulants,Other stimulants,Other stimulants,12,SUB3
+643,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,6,SUB3
+644,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB3
+645,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB3
+646,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,4,SUB3
+647,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,10,SUB3
+648,Heroin,Heroin,Heroin,Heroin,Heroin,Heroin,5,SUB3
+649,PCP,PCP,PCP,PCP,PCP,PCP,8,SUB3
+650,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,SUB3
+651,Barbiturates,Barbiturates,Barbiturates,Barbiturates,Barbiturates,Barbiturates,15,SUB3
+652,Inhalants,Inhalants,Inhalants,Inhalants,Inhalants,Inhalants,17,SUB1_D
+653,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,11,SUB1_D
+654,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,14,SUB1_D
+655,Other,Other,Other,Other,Other,Other,19,SUB1_D
+656,None,None,None,None,None,None,1,SUB1_D
+657,Alcohol,Alcohol,Alcohol,Alcohol,Alcohol,Alcohol,2,SUB1_D
+658,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,13,SUB1_D
+659,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,16,SUB1_D
+660,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,3,SUB1_D
+661,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,18,SUB1_D
+662,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,7,SUB1_D
+663,Other stimulants,Other stimulants,Other stimulants,Other stimulants,Other stimulants,Other stimulants,12,SUB1_D
+664,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,6,SUB1_D
+665,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB1_D
+666,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB1_D
+667,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB1_D
+668,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB1_D
+669,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,4,SUB1_D
+670,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,10,SUB1_D
+671,Heroin,Heroin,Heroin,Heroin,Heroin,Heroin,5,SUB1_D
+672,PCP,PCP,PCP,PCP,PCP,PCP,8,SUB1_D
+673,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,SUB1_D
+674,Barbiturates,Barbiturates,Barbiturates,Barbiturates,Barbiturates,Barbiturates,15,SUB1_D
+675,,,,,,15-30 days,17,DAYWAIT
+676,,,,,,31 or more,49,DAYWAIT
+677,,,,,,8-14 days,11,DAYWAIT
+678,,,,,,31 or more,36,DAYWAIT
+679,,,,,,31 or more,38,DAYWAIT
+680,,,,,,31 or more,43,DAYWAIT
+681,,,,,,15-30 days,29,DAYWAIT
+682,,,,,,8-14 days,14,DAYWAIT
+683,,,,,,31 or more,40,DAYWAIT
+684,,,,,,31 or more,37,DAYWAIT
+685,,,,,,31 or more,42,DAYWAIT
+686,,,,,,15-30 days,19,DAYWAIT
+687,,,,,,31 or more,34,DAYWAIT
+688,,,,,,15-30 days,20,DAYWAIT
+689,,,,,,15-30 days,27,DAYWAIT
+690,1-7 days,1-7 days,1-7 days,1-7 days,1-7 days,1-7 days,1,DAYWAIT
+691,,,,,,15-30 days,22,DAYWAIT
+692,8-14 days,8-14 days,8-14 days,8-14 days,8-14 days,1-7 days,2,DAYWAIT
+693,,,,,,15-30 days,23,DAYWAIT
+694,Other,Other,Other,Other,Other,Other,X,DAYWAIT
+695,,,,,,8-14 days,13,DAYWAIT
+696,,,,,,15-30 days,25,DAYWAIT
+697,,,,,,15-30 days,16,DAYWAIT
+698,15-30 days,15-30 days,15-30 days,15-30 days,15-30 days,1-7 days,3,DAYWAIT
+699,,,,,,15-30 days,18,DAYWAIT
+700,,,,,,15-30 days,28,DAYWAIT
+701,,,,,,15-30 days,21,DAYWAIT
+702,,,,,,15-30 days,30,DAYWAIT
+703,,,,,,1-7 days,7,DAYWAIT
+704,,,,,,8-14 days,12,DAYWAIT
+705,,,,,,31 or more,45,DAYWAIT
+706,,,,,,31 or more,48,DAYWAIT
+707,,,,,,1-7 days,6,DAYWAIT
+708,,,,,,8-14 days,9,DAYWAIT
+709,31 or more,31 or more,31 or more,31 or more,31 or more,1-7 days,4,DAYWAIT
+710,,,,,,8-14 days,10,DAYWAIT
+711,,,,,,31 or more,31,DAYWAIT
+712,,,,,,31 or more,32,DAYWAIT
+713,,,,,,1-7 days,5,DAYWAIT
+714,,,,,,31 or more,47,DAYWAIT
+715,,,,,,8-14 days,8,DAYWAIT
+716,,,,,,15-30 days,26,DAYWAIT
+717,,,,,,31 or more,41,DAYWAIT
+718,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,DAYWAIT
+719,,,,,,15-30 days,15,DAYWAIT
+720,,,,,,31 or more,33,DAYWAIT
+721,0,0,0,0,0,0,0,DAYWAIT
+722,,,,,,31 or more,35,DAYWAIT
+723,,,,,,15-30 days,24,DAYWAIT
+724,,,,,,31 or more,46,DAYWAIT
+725,,,,,,31 or more,44,DAYWAIT
+726,,,,,,31 or more,39,DAYWAIT
+727,No,No,No,No,No,No,2,PREG
+728,Yes,Yes,Yes,Yes,Yes,Yes,1,PREG
+729,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,PREG
+730,Court/criminal justice referral/DUI/DWI,Court/criminal justice referral/DUI/DWI,Court/criminal justice referral/DUI/DWI,Court/criminal justice referral/DUI/DWI,Court/criminal justice referral/DUI/DWI,Court/criminal justice referral/DUI/DWI,7,PSOURCE
+731,Individual (includes self-referral),Individual (includes self-referral),Individual (includes self-referral),Individual (includes self-referral),Individual (includes self-referral),Individual (includes self-referral),1,PSOURCE
+732,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,PSOURCE
+733,Alcohol/drug use care provider,Alcohol/drug use care provider,Alcohol/drug use care provider,Alcohol/drug use care provider,Alcohol/drug use care provider,Alcohol/drug use care provider,2,PSOURCE
+734,Other community referral,Other community referral,Other community referral,Other community referral,Other community referral,Other community referral,6,PSOURCE
+735,School (educational),School (educational),School (educational),School (educational),School (educational),School (educational),4,PSOURCE
+736,Employer/EAP,Employer/EAP,Employer/EAP,Employer/EAP,Employer/EAP,Employer/EAP,5,PSOURCE
+737,Other health care provider,Other health care provider,Other health care provider,Other health care provider,Other health care provider,Other health care provider,3,PSOURCE
+738,Other single race,Other single race,Other single race,Other single race,Other single race,Other single race,20,RACE
+739,Two or more races,Two or more races,Two or more races,Two or more races,Two or more races,Two or more races,21,RACE
+740,Other single race,Other single race,Other single race,Other single race,Other single race,Other single race,7,RACE
+741,"Alaska Native (Aleut, Eskimo, Indian)","Alaska Native (Aleut, Eskimo, Indian)","Alaska Native (Aleut, Eskimo, Indian)","Alaska Native (Aleut, Eskimo, Indian)","Alaska Native (Aleut, Eskimo, Indian)","Alaska Native (Aleut, Eskimo, Indian)",1,RACE
+742,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,RACE
+743,American Indian (other than Alaska Native),American Indian (other than Alaska Native),American Indian (other than Alaska Native),American Indian (other than Alaska Native),American Indian (other than Alaska Native),American Indian (other than Alaska Native),2,RACE
+744,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,23,RACE
+745,Asian,Asian,Asian,Asian,Asian,Asian,6,RACE
+746,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,9,RACE
+747,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,9,RACE
+748,Black or African American,Black or African American,Black or African American,Black or African American,Black or African American,Black or African American,4,RACE
+749,White,White,White,White,White,White,5,RACE
+750,Asian,Asian,Asian,Asian,Asian,Asian,13,RACE
+751,Two or more races,Two or more races,Two or more races,Two or more races,Two or more races,Two or more races,8,RACE
+752,Asian or Pacific Islander,Asian or Pacific Islander,Asian or Pacific Islander,Asian or Pacific Islander,Asian or Pacific Islander,Asian or Pacific Islander,3,RACE
+753,Never married,Never married,Never married,Never married,Never married,Never married,1,MARSTAT
+754,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,MARSTAT
+755,Now married,Now married,Now married,Now married,Now married,Now married,2,MARSTAT
+756,"Divorced, widowed","Divorced, widowed","Divorced, widowed","Divorced, widowed","Divorced, widowed","Divorced, widowed",4,MARSTAT
+757,Separated,Separated,Separated,Separated,Separated,Separated,3,MARSTAT
+758,Once,Once,Once,Once,Once,Once,1,ARRESTS
+759,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,ARRESTS
+760,Two or more times,Two or more times,Two or more times,Two or more times,Two or more times,Two or more times,2,ARRESTS
+761,None,None,None,None,None,None,0,ARRESTS
+762,No use in the past month,No use in the past month,No use in the past month,No use in the past month,No use in the past month,No use in the past month,1,FREQ1_D
+763,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,FREQ1_D
+764,Some use,Some use,Some use,Some use,Some use,Some use,2,FREQ1_D
+765,,,,,,,9,FREQ1_D
+766,Daily use,Daily use,Daily use,Daily use,Daily use,Daily use,3,FREQ1_D
+767,Illinois,Illinois,Illinois,Illinois,Illinois,Illinois,17,STFIPS
+768,Utah,Utah,Utah,Utah,Utah,Utah,49,STFIPS
+769,District of Columbia,District of Columbia,District of Columbia,District of Columbia,District of Columbia,District of Columbia,11,STFIPS
+770,Vermont,Vermont,Vermont,Vermont,Vermont,Vermont,50,STFIPS
+771,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,72,STFIPS
+772,New York,New York,New York,New York,New York,New York,36,STFIPS
+773,North Dakota,North Dakota,North Dakota,North Dakota,North Dakota,North Dakota,38,STFIPS
+774,Missouri,Missouri,Missouri,Missouri,Missouri,Missouri,29,STFIPS
+775,Oklahoma,Oklahoma,Oklahoma,Oklahoma,Oklahoma,Oklahoma,40,STFIPS
+776,North Carolina,North Carolina,North Carolina,North Carolina,North Carolina,North Carolina,37,STFIPS
+777,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,42,STFIPS
+778,Iowa,Iowa,Iowa,Iowa,Iowa,Iowa,19,STFIPS
+779,New Jersey,New Jersey,New Jersey,New Jersey,New Jersey,New Jersey,34,STFIPS
+780,Kansas,Kansas,Kansas,Kansas,Kansas,Kansas,20,STFIPS
+781,Minnesota,Minnesota,Minnesota,Minnesota,Minnesota,Minnesota,27,STFIPS
+782,Alabama,Alabama,Alabama,Alabama,Alabama,Alabama,1,STFIPS
+783,Louisiana,Louisiana,Louisiana,Louisiana,Louisiana,Louisiana,22,STFIPS
+784,Alaska,Alaska,Alaska,Alaska,Alaska,Alaska,2,STFIPS
+785,Maine,Maine,Maine,Maine,Maine,Maine,23,STFIPS
+786,Wisconsin,Wisconsin,Wisconsin,Wisconsin,Wisconsin,Wisconsin,55,STFIPS
+787,Georgia,Georgia,Georgia,Georgia,Georgia,Georgia,13,STFIPS
+788,Massachusetts,Massachusetts,Massachusetts,Massachusetts,Massachusetts,Massachusetts,25,STFIPS
+789,Idaho,Idaho,Idaho,Idaho,Idaho,Idaho,16,STFIPS
+790,Indiana,Indiana,Indiana,Indiana,Indiana,Indiana,18,STFIPS
+791,Mississippi,Mississippi,Mississippi,Mississippi,Mississippi,Mississippi,28,STFIPS
+792,Montana,Montana,Montana,Montana,Montana,Montana,30,STFIPS
+793,Kentucky,Kentucky,Kentucky,Kentucky,Kentucky,Kentucky,21,STFIPS
+794,South Carolina,South Carolina,South Carolina,South Carolina,South Carolina,South Carolina,45,STFIPS
+795,Florida,Florida,Florida,Florida,Florida,Florida,12,STFIPS
+796,Texas,Texas,Texas,Texas,Texas,Texas,48,STFIPS
+797,Virginia,Virginia,Virginia,Virginia,Virginia,Virginia,51,STFIPS
+798,California,California,California,California,California,California,6,STFIPS
+799,Connecticut,Connecticut,Connecticut,Connecticut,Connecticut,Connecticut,9,STFIPS
+800,Arizona,Arizona,Arizona,Arizona,Arizona,Arizona,4,STFIPS
+801,Delaware,Delaware,Delaware,Delaware,Delaware,Delaware,10,STFIPS
+802,Nebraska,Nebraska,Nebraska,Nebraska,Nebraska,Nebraska,31,STFIPS
+803,Nevada,Nevada,Nevada,Nevada,Nevada,Nevada,32,STFIPS
+804,West Virginia,West Virginia,West Virginia,West Virginia,West Virginia,West Virginia,54,STFIPS
+805,Arkansas,Arkansas,Arkansas,Arkansas,Arkansas,Arkansas,5,STFIPS
+806,Tennessee,Tennessee,Tennessee,Tennessee,Tennessee,Tennessee,47,STFIPS
+807,Colorado,Colorado,Colorado,Colorado,Colorado,Colorado,8,STFIPS
+808,Michigan,Michigan,Michigan,Michigan,Michigan,Michigan,26,STFIPS
+809,Oregon,Oregon,Oregon,Oregon,Oregon,Oregon,41,STFIPS
+810,Washington,Washington,Washington,Washington,Washington,Washington,53,STFIPS
+811,Hawaii,Hawaii,Hawaii,Hawaii,Hawaii,Hawaii,15,STFIPS
+812,New Hampshire,New Hampshire,New Hampshire,New Hampshire,New Hampshire,New Hampshire,33,STFIPS
+813,New Mexico,New Mexico,New Mexico,New Mexico,New Mexico,New Mexico,35,STFIPS
+814,Maryland,Maryland,Maryland,Maryland,Maryland,Maryland,24,STFIPS
+815,South Dakota,South Dakota,South Dakota,South Dakota,South Dakota,South Dakota,46,STFIPS
+816,Rhode Island,Rhode Island,Rhode Island,Rhode Island,Rhode Island,Rhode Island,44,STFIPS
+817,Wyoming,Wyoming,Wyoming,Wyoming,Wyoming,Wyoming,56,STFIPS
+818,Ohio,Ohio,Ohio,Ohio,Ohio,Ohio,39,STFIPS
+819,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,PCPFLG
+820,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,PCPFLG
+821,No attendance,No attendance,No attendance,No attendance,No attendance,No attendance,1,FREQ_ATND_SELF_HELP_D
+822,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,FREQ_ATND_SELF_HELP_D
+823,1-3 times in the past month,1-3 times in the past month,1-3 times in the past month,1-3 times in the past month,1-3 times in the past month,1-3 times in the past month,2,FREQ_ATND_SELF_HELP_D
+824,8-30 times in the past month,8-30 times in the past month,8-30 times in the past month,8-30 times in the past month,8-30 times in the past month,8-30 times in the past month,4,FREQ_ATND_SELF_HELP_D
+825,"Some attendance, frequency is unknown","Some attendance, frequency is unknown","Some attendance, frequency is unknown","Some attendance, frequency is unknown","Some attendance, frequency is unknown","Some attendance, frequency is unknown",5,FREQ_ATND_SELF_HELP_D
+826,4-7 times in the past month,4-7 times in the past month,4-7 times in the past month,4-7 times in the past month,4-7 times in the past month,4-7 times in the past month,3,FREQ_ATND_SELF_HELP_D
+827,,,,,,,470,PMSA
+828,,,,,,,120,PMSA
+829,,,,,,,480,PMSA
+830,,,,,,,960,PMSA
+831,,,,,,,580,PMSA
+832,,,,,,,1080,PMSA
+833,,,,,,,220,PMSA
+834,,,,,,,1145,PMSA
+835,,,,,,,500,PMSA
+836,,,,,,,1400,PMSA
+837,,,,,,,60,PMSA
+838,,,,,,,40,PMSA
+839,,,,,,,320,PMSA
+840,,,,,,,680,PMSA
+841,,,,,,,240,PMSA
+842,,,,,,,720,PMSA
+843,,,,,,,875,PMSA
+844,,,,,,,1480,PMSA
+845,,,,,,,840,PMSA
+846,,,,,,,380,PMSA
+847,,,,,,,880,PMSA
+848,,,,,,,1620,PMSA
+849,,,,,,,520,PMSA
+850,,,,,,,1123,PMSA
+851,,,,,,,1125,PMSA
+852,,,,,,,1303,PMSA
+853,,,,,,,870,PMSA
+854,,,,,,,1260,PMSA
+855,,,,,,,1310,PMSA
+856,,,,,,,450,PMSA
+857,,,,,,,1660,PMSA
+858,,,,,,,X,PMSA
+859,,,,,,,860,PMSA
+860,,,,,,,1320,PMSA
+861,,,,,,,1520,PMSA
+862,,,,,,,160,PMSA
+863,,,,,,,440,PMSA
+864,,,,,,,80,PMSA
+865,,,,,,,1440,PMSA
+866,,,,,,,1560,PMSA
+867,,,,,,,1540,PMSA
+868,,,,,,,1240,PMSA
+869,,,,,,,743,PMSA
+870,,,,,,,560,PMSA
+871,,,,,,,760,PMSA
+872,,,,,,,1150,PMSA
+873,,,,,,,-9,PMSA
+874,,,,,,,1040,PMSA
+875,,,,,,,640,PMSA
+876,,,,,,,1280,PMSA
+877,,,,,,,1600,PMSA
+878,,,,,,,1360,PMSA
+879,,,,,,,1000,PMSA
+880,,,,,,,600,PMSA
+881,,,,,,,200,PMSA
+882,,,,,,,1640,PMSA
+883,No use in the past month,No use in the past month,No use in the past month,No use in the past month,No use in the past month,No use in the past month,1,FREQ2_D
+884,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,FREQ2_D
+885,Some use,Some use,Some use,Some use,Some use,Some use,2,FREQ2_D
+886,,,,,,,9,FREQ2_D
+887,Daily use,Daily use,Daily use,Daily use,Daily use,Daily use,3,FREQ2_D
+888,17,17,17,17,17,17,17,LOS
+889,11,11,11,11,11,11,11,LOS
+890,181 to 365 days,181 to 365 days,181 to 365 days,181 to 365 days,181 to 365 days,181 to 365 days,36,LOS
+891,29,29,29,29,29,29,29,LOS
+892,14,14,14,14,14,14,14,LOS
+893,More than a year,More than a year,More than a year,More than a year,More than a year,More than a year,37,LOS
+894,19,19,19,19,19,19,19,LOS
+895,91 to 120 days,91 to 120 days,91 to 120 days,91 to 120 days,91 to 120 days,91 to 120 days,34,LOS
+896,20,20,20,20,20,20,20,LOS
+897,27,27,27,27,27,27,27,LOS
+898,1,1,1,1,1,1,1,LOS
+899,22,22,22,22,22,22,22,LOS
+900,2,2,2,2,2,2,2,LOS
+901,23,23,23,23,23,23,23,LOS
+902,13,13,13,13,13,13,13,LOS
+903,25,25,25,25,25,25,25,LOS
+904,16,16,16,16,16,16,16,LOS
+905,3,3,3,3,3,3,3,LOS
+906,18,18,18,18,18,18,18,LOS
+907,28,28,28,28,28,28,28,LOS
+908,21,21,21,21,21,21,21,LOS
+909,30,30,30,30,30,30,30,LOS
+910,7,7,7,7,7,7,7,LOS
+911,12,12,12,12,12,12,12,LOS
+912,6,6,6,6,6,6,6,LOS
+913,9,9,9,9,9,9,9,LOS
+914,4,4,4,4,4,4,4,LOS
+915,10,10,10,10,10,10,10,LOS
+916,31 to 45 days,31 to 45 days,31 to 45 days,31 to 45 days,31 to 45 days,31 to 45 days,31,LOS
+917,46 to 60 days,46 to 60 days,46 to 60 days,46 to 60 days,46 to 60 days,46 to 60 days,32,LOS
+918,5,5,5,5,5,5,5,LOS
+919,8,8,8,8,8,8,8,LOS
+920,26,26,26,26,26,26,26,LOS
+921,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,LOS
+922,15,15,15,15,15,15,15,LOS
+923,61 to 90 days,61 to 90 days,61 to 90 days,61 to 90 days,61 to 90 days,61 to 90 days,33,LOS
+924,121 to 180 days,121 to 180 days,121 to 180 days,121 to 180 days,121 to 180 days,121 to 180 days,35,LOS
+925,24,24,24,24,24,24,24,LOS
+926,Inhalants,Inhalants,Inhalants,Inhalants,Inhalants,Inhalants,17,SUB3_D
+927,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,11,SUB3_D
+928,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,14,SUB3_D
+929,Other,Other,Other,Other,Other,Other,19,SUB3_D
+930,None,None,None,None,None,None,1,SUB3_D
+931,Alcohol,Alcohol,Alcohol,Alcohol,Alcohol,Alcohol,2,SUB3_D
+932,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,13,SUB3_D
+933,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,16,SUB3_D
+934,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,3,SUB3_D
+935,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,18,SUB3_D
+936,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,7,SUB3_D
+937,Other stimulants,Other stimulants,Other stimulants,Other stimulants,Other stimulants,Other stimulants,12,SUB3_D
+938,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,6,SUB3_D
+939,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB3_D
+940,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB3_D
+941,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,4,SUB3_D
+942,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,10,SUB3_D
+943,Heroin,Heroin,Heroin,Heroin,Heroin,Heroin,5,SUB3_D
+944,PCP,PCP,PCP,PCP,PCP,PCP,8,SUB3_D
+945,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,SUB3_D
+946,Barbiturates,Barbiturates,Barbiturates,Barbiturates,Barbiturates,Barbiturates,15,SUB3_D
+947,No,No,No,No,No,No,2,PSYPROB
+948,Yes,Yes,Yes,Yes,Yes,Yes,1,PSYPROB
+949,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,PSYPROB
+950,Homeless,Homeless,Homeless,Homeless,Homeless,Homeless,1,LIVARAG_D
+951,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,LIVARAG_D
+952,Dependent living,Dependent living,Dependent living,Dependent living,Dependent living,Dependent living,2,LIVARAG_D
+953,,,,,,,9,LIVARAG_D
+954,Independent living,Independent living,Independent living,Independent living,Independent living,Independent living,3,LIVARAG_D
+955,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,OPSYNFLG
+956,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,OPSYNFLG
+957,No use in the past month,No use in the past month,No use in the past month,No use in the past month,No use in the past month,No use in the past month,1,FREQ3_D
+958,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,FREQ3_D
+959,Some use,Some use,Some use,Some use,Some use,Some use,2,FREQ3_D
+960,,,,,,,9,FREQ3_D
+961,Daily use,Daily use,Daily use,Daily use,Daily use,Daily use,3,FREQ3_D
+962,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,BENZFLG
+963,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,BENZFLG
+964,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,Substance reported,1,HALLFLG
+965,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,Substance not reported,0,HALLFLG
+966,Inhalants,Inhalants,Inhalants,Inhalants,Inhalants,Inhalants,17,SUB1
+967,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,11,SUB1
+968,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,14,SUB1
+969,Other,Other,Other,Other,Other,Other,19,SUB1
+970,Other,Other,Other,Other,Other,Other,20,SUB1
+971,None,None,None,None,None,None,1,SUB1
+972,Alcohol,Alcohol,Alcohol,Alcohol,Alcohol,Alcohol,2,SUB1
+973,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,13,SUB1
+974,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,16,SUB1
+975,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,3,SUB1
+976,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,18,SUB1
+977,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,7,SUB1
+978,Other stimulants,Other stimulants,Other stimulants,Other stimulants,Other stimulants,Other stimulants,12,SUB1
+979,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,6,SUB1
+980,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB1
+981,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB1
+982,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,4,SUB1
+983,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,10,SUB1
+984,Heroin,Heroin,Heroin,Heroin,Heroin,Heroin,5,SUB1
+985,PCP,PCP,PCP,PCP,PCP,PCP,8,SUB1
+986,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,SUB1
+987,Barbiturates,Barbiturates,Barbiturates,Barbiturates,Barbiturates,Barbiturates,15,SUB1
+988,No attendance,No attendance,No attendance,No attendance,No attendance,No attendance,1,FREQ_ATND_SELF_HELP
+989,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,FREQ_ATND_SELF_HELP
+990,1-3 times in the past month,1-3 times in the past month,1-3 times in the past month,1-3 times in the past month,1-3 times in the past month,1-3 times in the past month,2,FREQ_ATND_SELF_HELP
+991,8-30 times in the past month,8-30 times in the past month,8-30 times in the past month,8-30 times in the past month,8-30 times in the past month,8-30 times in the past month,4,FREQ_ATND_SELF_HELP
+992,"Some attendance, frequency is unknown","Some attendance, frequency is unknown","Some attendance, frequency is unknown","Some attendance, frequency is unknown","Some attendance, frequency is unknown","Some attendance, frequency is unknown",5,FREQ_ATND_SELF_HELP
+993,4-7 times in the past month,4-7 times in the past month,4-7 times in the past month,4-7 times in the past month,4-7 times in the past month,4-7 times in the past month,3,FREQ_ATND_SELF_HELP
+994,Inhalants,Inhalants,Inhalants,Inhalants,Inhalants,Inhalants,17,SUB2
+995,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,Other amphetamines,11,SUB2
+996,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,Other tranquilizers,14,SUB2
+997,Other,Other,Other,Other,Other,Other,19,SUB2
+998,Other,Other,Other,Other,Other,Other,20,SUB2
+999,None,None,None,None,None,None,1,SUB2
+1000,Alcohol,Alcohol,Alcohol,Alcohol,Alcohol,Alcohol,2,SUB2
+1001,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,Benzodiazepines,13,SUB2
+1002,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,Other sedatives or hypnotics,16,SUB2
+1003,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,Cocaine/crack,3,SUB2
+1004,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,Over-the-counter medications,18,SUB2
+1005,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,Other opiates and synthetics,7,SUB2
+1006,Other stimulants,Other stimulants,Other stimulants,Other stimulants,Other stimulants,Other stimulants,12,SUB2
+1007,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,Non-prescription methadone,6,SUB2
+1008,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,Hallucinogens,9,SUB2
+1009,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,Marijuana/hashish,4,SUB2
+1010,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,Methamphetamine/speed,10,SUB2
+1011,Heroin,Heroin,Heroin,Heroin,Heroin,Heroin,5,SUB2
+1012,PCP,PCP,PCP,PCP,PCP,PCP,8,SUB2
+1013,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,SUB2
+1014,Barbiturates,Barbiturates,Barbiturates,Barbiturates,Barbiturates,Barbiturates,15,SUB2
+1015,Other,Other,Other,Other,Other,Other,7,REASON
+1016,Treatment completed,Treatment completed,Treatment completed,Treatment completed,Treatment completed,Treatment completed,1,REASON
+1017,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,Missing/unknown/not collected/invalid,-9,REASON
+1018,Dropped out of treatment,Dropped out of treatment,Dropped out of treatment,Dropped out of treatment,Dropped out of treatment,Dropped out of treatment,2,REASON
+1019,Death,Death,Death,Death,Death,Death,6,REASON
+1020,Transferred to another treatment program or facility,Transferred to another treatment program or facility,Transferred to another treatment program or facility,Transferred to another treatment program or facility,Transferred to another treatment program or facility,Transferred to another treatment program or facility,4,REASON
+1021,Incarcerated,Incarcerated,Incarcerated,Incarcerated,Incarcerated,Incarcerated,5,REASON
+1022,Terminated by facility,Terminated by facility,Terminated by facility,Terminated by facility,Terminated by facility,Terminated by facility,3,REASON
